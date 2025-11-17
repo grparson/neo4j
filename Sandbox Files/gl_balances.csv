@@ -1,0 +1,1405 @@
+gl_balance_id,year,month,branch_id,ledger_code,ledger_name,pool_name,amount
+GL_CallCenterOpex_202507_HQ_6100,2025,7,HQ,6100,Call Center Salaries,CallCenterOpex,23379.04
+GL_CallCenterOpex_202507_HQ_6110,2025,7,HQ,6110,Telecom Expense,CallCenterOpex,10626.84
+GL_CallCenterOpex_202507_HQ_6120,2025,7,HQ,6120,Call Center Rent,CallCenterOpex,8501.47
+GL_CallCenterOpex_202507_B001_6100,2025,7,B001,6100,Call Center Salaries,CallCenterOpex,80462.79
+GL_CallCenterOpex_202507_B001_6110,2025,7,B001,6110,Telecom Expense,CallCenterOpex,36574.0
+GL_CallCenterOpex_202507_B001_6120,2025,7,B001,6120,Call Center Rent,CallCenterOpex,29259.2
+GL_CallCenterOpex_202507_B002_6100,2025,7,B002,6100,Call Center Salaries,CallCenterOpex,4491.02
+GL_CallCenterOpex_202507_B002_6110,2025,7,B002,6110,Telecom Expense,CallCenterOpex,2041.37
+GL_CallCenterOpex_202507_B002_6120,2025,7,B002,6120,Call Center Rent,CallCenterOpex,1633.1
+GL_CallCenterOpex_202507_B003_6100,2025,7,B003,6100,Call Center Salaries,CallCenterOpex,57789.19
+GL_CallCenterOpex_202507_B003_6110,2025,7,B003,6110,Telecom Expense,CallCenterOpex,26267.81
+GL_CallCenterOpex_202507_B003_6120,2025,7,B003,6120,Call Center Rent,CallCenterOpex,21014.25
+GL_CallCenterOpex_202507_B004_6100,2025,7,B004,6100,Call Center Salaries,CallCenterOpex,26341.56
+GL_CallCenterOpex_202507_B004_6110,2025,7,B004,6110,Telecom Expense,CallCenterOpex,11973.44
+GL_CallCenterOpex_202507_B004_6120,2025,7,B004,6120,Call Center Rent,CallCenterOpex,9578.75
+GL_CallCenterOpex_202507_B005_6100,2025,7,B005,6100,Call Center Salaries,CallCenterOpex,182187.68
+GL_CallCenterOpex_202507_B005_6110,2025,7,B005,6110,Telecom Expense,CallCenterOpex,82812.58
+GL_CallCenterOpex_202507_B005_6120,2025,7,B005,6120,Call Center Rent,CallCenterOpex,66250.06
+GL_CallCenterOpex_202507_B006_6100,2025,7,B006,6100,Call Center Salaries,CallCenterOpex,33971.56
+GL_CallCenterOpex_202507_B006_6110,2025,7,B006,6110,Telecom Expense,CallCenterOpex,15441.62
+GL_CallCenterOpex_202507_B006_6120,2025,7,B006,6120,Call Center Rent,CallCenterOpex,12353.29
+GL_CallCenterOpex_202507_B007_6100,2025,7,B007,6100,Call Center Salaries,CallCenterOpex,53283.14
+GL_CallCenterOpex_202507_B007_6110,2025,7,B007,6110,Telecom Expense,CallCenterOpex,24219.61
+GL_CallCenterOpex_202507_B007_6120,2025,7,B007,6120,Call Center Rent,CallCenterOpex,19375.69
+GL_CallCenterOpex_202507_B008_6100,2025,7,B008,6100,Call Center Salaries,CallCenterOpex,101920.57
+GL_CallCenterOpex_202507_B008_6110,2025,7,B008,6110,Telecom Expense,CallCenterOpex,46327.53
+GL_CallCenterOpex_202507_B008_6120,2025,7,B008,6120,Call Center Rent,CallCenterOpex,37062.03
+GL_CallCenterOpex_202507_B009_6100,2025,7,B009,6100,Call Center Salaries,CallCenterOpex,11157.27
+GL_CallCenterOpex_202507_B009_6110,2025,7,B009,6110,Telecom Expense,CallCenterOpex,5071.49
+GL_CallCenterOpex_202507_B009_6120,2025,7,B009,6120,Call Center Rent,CallCenterOpex,4057.19
+GL_CallCenterOpex_202507_B010_6100,2025,7,B010,6100,Call Center Salaries,CallCenterOpex,36850.72
+GL_CallCenterOpex_202507_B010_6110,2025,7,B010,6110,Telecom Expense,CallCenterOpex,16750.33
+GL_CallCenterOpex_202507_B010_6120,2025,7,B010,6120,Call Center Rent,CallCenterOpex,13400.26
+GL_CallCenterOpex_202507_B011_6100,2025,7,B011,6100,Call Center Salaries,CallCenterOpex,59951.53
+GL_CallCenterOpex_202507_B011_6110,2025,7,B011,6110,Telecom Expense,CallCenterOpex,27250.7
+GL_CallCenterOpex_202507_B011_6120,2025,7,B011,6120,Call Center Rent,CallCenterOpex,21800.56
+GL_CallCenterOpex_202507_B012_6100,2025,7,B012,6100,Call Center Salaries,CallCenterOpex,43400.65
+GL_CallCenterOpex_202507_B012_6110,2025,7,B012,6110,Telecom Expense,CallCenterOpex,19727.57
+GL_CallCenterOpex_202507_B012_6120,2025,7,B012,6120,Call Center Rent,CallCenterOpex,15782.05
+GL_BranchOpex_202507_HQ_6200,2025,7,HQ,6200,Branch Salaries,BranchOpex,82693.09
+GL_BranchOpex_202507_HQ_6210,2025,7,HQ,6210,Branch Rent,BranchOpex,30070.21
+GL_BranchOpex_202507_HQ_6220,2025,7,HQ,6220,Branch Utilities,BranchOpex,22552.66
+GL_BranchOpex_202507_HQ_6230,2025,7,HQ,6230,Branch Supplies,BranchOpex,15035.11
+GL_BranchOpex_202507_B001_6200,2025,7,B001,6200,Branch Salaries,BranchOpex,232353.3
+GL_BranchOpex_202507_B001_6210,2025,7,B001,6210,Branch Rent,BranchOpex,84492.11
+GL_BranchOpex_202507_B001_6220,2025,7,B001,6220,Branch Utilities,BranchOpex,63369.08
+GL_BranchOpex_202507_B001_6230,2025,7,B001,6230,Branch Supplies,BranchOpex,42246.05
+GL_BranchOpex_202507_B002_6200,2025,7,B002,6200,Branch Salaries,BranchOpex,55355.07
+GL_BranchOpex_202507_B002_6210,2025,7,B002,6210,Branch Rent,BranchOpex,20129.12
+GL_BranchOpex_202507_B002_6220,2025,7,B002,6220,Branch Utilities,BranchOpex,15096.84
+GL_BranchOpex_202507_B002_6230,2025,7,B002,6230,Branch Supplies,BranchOpex,10064.56
+GL_BranchOpex_202507_B003_6200,2025,7,B003,6200,Branch Salaries,BranchOpex,238746.66
+GL_BranchOpex_202507_B003_6210,2025,7,B003,6210,Branch Rent,BranchOpex,86816.97
+GL_BranchOpex_202507_B003_6220,2025,7,B003,6220,Branch Utilities,BranchOpex,65112.73
+GL_BranchOpex_202507_B003_6230,2025,7,B003,6230,Branch Supplies,BranchOpex,43408.48
+GL_BranchOpex_202507_B004_6200,2025,7,B004,6200,Branch Salaries,BranchOpex,88112.12
+GL_BranchOpex_202507_B004_6210,2025,7,B004,6210,Branch Rent,BranchOpex,32040.77
+GL_BranchOpex_202507_B004_6220,2025,7,B004,6220,Branch Utilities,BranchOpex,24030.58
+GL_BranchOpex_202507_B004_6230,2025,7,B004,6230,Branch Supplies,BranchOpex,16020.39
+GL_BranchOpex_202507_B005_6200,2025,7,B005,6200,Branch Salaries,BranchOpex,158804.7
+GL_BranchOpex_202507_B005_6210,2025,7,B005,6210,Branch Rent,BranchOpex,57747.16
+GL_BranchOpex_202507_B005_6220,2025,7,B005,6220,Branch Utilities,BranchOpex,43310.37
+GL_BranchOpex_202507_B005_6230,2025,7,B005,6230,Branch Supplies,BranchOpex,28873.58
+GL_BranchOpex_202507_B006_6200,2025,7,B006,6200,Branch Salaries,BranchOpex,92723.56
+GL_BranchOpex_202507_B006_6210,2025,7,B006,6210,Branch Rent,BranchOpex,33717.66
+GL_BranchOpex_202507_B006_6220,2025,7,B006,6220,Branch Utilities,BranchOpex,25288.24
+GL_BranchOpex_202507_B006_6230,2025,7,B006,6230,Branch Supplies,BranchOpex,16858.83
+GL_BranchOpex_202507_B007_6200,2025,7,B007,6200,Branch Salaries,BranchOpex,24776.42
+GL_BranchOpex_202507_B007_6210,2025,7,B007,6210,Branch Rent,BranchOpex,9009.61
+GL_BranchOpex_202507_B007_6220,2025,7,B007,6220,Branch Utilities,BranchOpex,6757.21
+GL_BranchOpex_202507_B007_6230,2025,7,B007,6230,Branch Supplies,BranchOpex,4504.8
+GL_BranchOpex_202507_B008_6200,2025,7,B008,6200,Branch Salaries,BranchOpex,30962.5
+GL_BranchOpex_202507_B008_6210,2025,7,B008,6210,Branch Rent,BranchOpex,11259.09
+GL_BranchOpex_202507_B008_6220,2025,7,B008,6220,Branch Utilities,BranchOpex,8444.32
+GL_BranchOpex_202507_B008_6230,2025,7,B008,6230,Branch Supplies,BranchOpex,5629.55
+GL_BranchOpex_202507_B009_6200,2025,7,B009,6200,Branch Salaries,BranchOpex,80527.29
+GL_BranchOpex_202507_B009_6210,2025,7,B009,6210,Branch Rent,BranchOpex,29282.65
+GL_BranchOpex_202507_B009_6220,2025,7,B009,6220,Branch Utilities,BranchOpex,21961.99
+GL_BranchOpex_202507_B009_6230,2025,7,B009,6230,Branch Supplies,BranchOpex,14641.33
+GL_BranchOpex_202507_B010_6200,2025,7,B010,6200,Branch Salaries,BranchOpex,34084.13
+GL_BranchOpex_202507_B010_6210,2025,7,B010,6210,Branch Rent,BranchOpex,12394.23
+GL_BranchOpex_202507_B010_6220,2025,7,B010,6220,Branch Utilities,BranchOpex,9295.67
+GL_BranchOpex_202507_B010_6230,2025,7,B010,6230,Branch Supplies,BranchOpex,6197.11
+GL_BranchOpex_202507_B011_6200,2025,7,B011,6200,Branch Salaries,BranchOpex,122553.44
+GL_BranchOpex_202507_B011_6210,2025,7,B011,6210,Branch Rent,BranchOpex,44564.89
+GL_BranchOpex_202507_B011_6220,2025,7,B011,6220,Branch Utilities,BranchOpex,33423.67
+GL_BranchOpex_202507_B011_6230,2025,7,B011,6230,Branch Supplies,BranchOpex,22282.44
+GL_BranchOpex_202507_B012_6200,2025,7,B012,6200,Branch Salaries,BranchOpex,43231.99
+GL_BranchOpex_202507_B012_6210,2025,7,B012,6210,Branch Rent,BranchOpex,15720.73
+GL_BranchOpex_202507_B012_6220,2025,7,B012,6220,Branch Utilities,BranchOpex,11790.54
+GL_BranchOpex_202507_B012_6230,2025,7,B012,6230,Branch Supplies,BranchOpex,7860.35
+GL_DigitalPlatform_202507_HQ_6300,2025,7,HQ,6300,Cloud Hosting,DigitalPlatform,283066.7
+GL_DigitalPlatform_202507_HQ_6310,2025,7,HQ,6310,Software Licenses,DigitalPlatform,169840.02
+GL_DigitalPlatform_202507_HQ_6320,2025,7,HQ,6320,DevOps & Monitoring,DigitalPlatform,113226.68
+GL_DigitalPlatform_202507_B001_6300,2025,7,B001,6300,Cloud Hosting,DigitalPlatform,14968.75
+GL_DigitalPlatform_202507_B001_6310,2025,7,B001,6310,Software Licenses,DigitalPlatform,8981.25
+GL_DigitalPlatform_202507_B001_6320,2025,7,B001,6320,DevOps & Monitoring,DigitalPlatform,5987.5
+GL_DigitalPlatform_202507_B002_6300,2025,7,B002,6300,Cloud Hosting,DigitalPlatform,22768.91
+GL_DigitalPlatform_202507_B002_6310,2025,7,B002,6310,Software Licenses,DigitalPlatform,13661.34
+GL_DigitalPlatform_202507_B002_6320,2025,7,B002,6320,DevOps & Monitoring,DigitalPlatform,9107.56
+GL_DigitalPlatform_202507_B003_6300,2025,7,B003,6300,Cloud Hosting,DigitalPlatform,16285.59
+GL_DigitalPlatform_202507_B003_6310,2025,7,B003,6310,Software Licenses,DigitalPlatform,9771.35
+GL_DigitalPlatform_202507_B003_6320,2025,7,B003,6320,DevOps & Monitoring,DigitalPlatform,6514.23
+GL_DigitalPlatform_202507_B004_6300,2025,7,B004,6300,Cloud Hosting,DigitalPlatform,18257.51
+GL_DigitalPlatform_202507_B004_6310,2025,7,B004,6310,Software Licenses,DigitalPlatform,10954.51
+GL_DigitalPlatform_202507_B004_6320,2025,7,B004,6320,DevOps & Monitoring,DigitalPlatform,7303.01
+GL_DigitalPlatform_202507_B005_6300,2025,7,B005,6300,Cloud Hosting,DigitalPlatform,10643.13
+GL_DigitalPlatform_202507_B005_6310,2025,7,B005,6310,Software Licenses,DigitalPlatform,6385.88
+GL_DigitalPlatform_202507_B005_6320,2025,7,B005,6320,DevOps & Monitoring,DigitalPlatform,4257.25
+GL_DigitalPlatform_202507_B006_6300,2025,7,B006,6300,Cloud Hosting,DigitalPlatform,26494.74
+GL_DigitalPlatform_202507_B006_6310,2025,7,B006,6310,Software Licenses,DigitalPlatform,15896.85
+GL_DigitalPlatform_202507_B006_6320,2025,7,B006,6320,DevOps & Monitoring,DigitalPlatform,10597.9
+GL_DigitalPlatform_202507_B007_6300,2025,7,B007,6300,Cloud Hosting,DigitalPlatform,15003.21
+GL_DigitalPlatform_202507_B007_6310,2025,7,B007,6310,Software Licenses,DigitalPlatform,9001.93
+GL_DigitalPlatform_202507_B007_6320,2025,7,B007,6320,DevOps & Monitoring,DigitalPlatform,6001.29
+GL_DigitalPlatform_202507_B008_6300,2025,7,B008,6300,Cloud Hosting,DigitalPlatform,4034.25
+GL_DigitalPlatform_202507_B008_6310,2025,7,B008,6310,Software Licenses,DigitalPlatform,2420.55
+GL_DigitalPlatform_202507_B008_6320,2025,7,B008,6320,DevOps & Monitoring,DigitalPlatform,1613.7
+GL_DigitalPlatform_202507_B009_6300,2025,7,B009,6300,Cloud Hosting,DigitalPlatform,20099.34
+GL_DigitalPlatform_202507_B009_6310,2025,7,B009,6310,Software Licenses,DigitalPlatform,12059.61
+GL_DigitalPlatform_202507_B009_6320,2025,7,B009,6320,DevOps & Monitoring,DigitalPlatform,8039.74
+GL_DigitalPlatform_202507_B010_6300,2025,7,B010,6300,Cloud Hosting,DigitalPlatform,9266.2
+GL_DigitalPlatform_202507_B010_6310,2025,7,B010,6310,Software Licenses,DigitalPlatform,5559.72
+GL_DigitalPlatform_202507_B010_6320,2025,7,B010,6320,DevOps & Monitoring,DigitalPlatform,3706.48
+GL_DigitalPlatform_202507_B011_6300,2025,7,B011,6300,Cloud Hosting,DigitalPlatform,10183.24
+GL_DigitalPlatform_202507_B011_6310,2025,7,B011,6310,Software Licenses,DigitalPlatform,6109.94
+GL_DigitalPlatform_202507_B011_6320,2025,7,B011,6320,DevOps & Monitoring,DigitalPlatform,4073.29
+GL_DigitalPlatform_202507_B012_6300,2025,7,B012,6300,Cloud Hosting,DigitalPlatform,20706.28
+GL_DigitalPlatform_202507_B012_6310,2025,7,B012,6310,Software Licenses,DigitalPlatform,12423.77
+GL_DigitalPlatform_202507_B012_6320,2025,7,B012,6320,DevOps & Monitoring,DigitalPlatform,8282.47
+GL_ATMNetwork_202507_HQ_6400,2025,7,HQ,6400,ATM Maintenance,ATMNetwork,16944.54
+GL_ATMNetwork_202507_HQ_6410,2025,7,HQ,6410,Interchange Fees,ATMNetwork,16944.54
+GL_ATMNetwork_202507_HQ_6420,2025,7,HQ,6420,Cash Handling,ATMNetwork,8472.27
+GL_ATMNetwork_202507_B001_6400,2025,7,B001,6400,ATM Maintenance,ATMNetwork,8737.98
+GL_ATMNetwork_202507_B001_6410,2025,7,B001,6410,Interchange Fees,ATMNetwork,8737.98
+GL_ATMNetwork_202507_B001_6420,2025,7,B001,6420,Cash Handling,ATMNetwork,4368.99
+GL_ATMNetwork_202507_B002_6400,2025,7,B002,6400,ATM Maintenance,ATMNetwork,21020.84
+GL_ATMNetwork_202507_B002_6410,2025,7,B002,6410,Interchange Fees,ATMNetwork,21020.84
+GL_ATMNetwork_202507_B002_6420,2025,7,B002,6420,Cash Handling,ATMNetwork,10510.42
+GL_ATMNetwork_202507_B003_6400,2025,7,B003,6400,ATM Maintenance,ATMNetwork,5930.32
+GL_ATMNetwork_202507_B003_6410,2025,7,B003,6410,Interchange Fees,ATMNetwork,5930.32
+GL_ATMNetwork_202507_B003_6420,2025,7,B003,6420,Cash Handling,ATMNetwork,2965.16
+GL_ATMNetwork_202507_B004_6400,2025,7,B004,6400,ATM Maintenance,ATMNetwork,19231.64
+GL_ATMNetwork_202507_B004_6410,2025,7,B004,6410,Interchange Fees,ATMNetwork,19231.64
+GL_ATMNetwork_202507_B004_6420,2025,7,B004,6420,Cash Handling,ATMNetwork,9615.82
+GL_ATMNetwork_202507_B005_6400,2025,7,B005,6400,ATM Maintenance,ATMNetwork,7176.38
+GL_ATMNetwork_202507_B005_6410,2025,7,B005,6410,Interchange Fees,ATMNetwork,7176.38
+GL_ATMNetwork_202507_B005_6420,2025,7,B005,6420,Cash Handling,ATMNetwork,3588.19
+GL_ATMNetwork_202507_B006_6400,2025,7,B006,6400,ATM Maintenance,ATMNetwork,14261.59
+GL_ATMNetwork_202507_B006_6410,2025,7,B006,6410,Interchange Fees,ATMNetwork,14261.59
+GL_ATMNetwork_202507_B006_6420,2025,7,B006,6420,Cash Handling,ATMNetwork,7130.8
+GL_ATMNetwork_202507_B007_6400,2025,7,B007,6400,ATM Maintenance,ATMNetwork,3174.67
+GL_ATMNetwork_202507_B007_6410,2025,7,B007,6410,Interchange Fees,ATMNetwork,3174.67
+GL_ATMNetwork_202507_B007_6420,2025,7,B007,6420,Cash Handling,ATMNetwork,1587.33
+GL_ATMNetwork_202507_B008_6400,2025,7,B008,6400,ATM Maintenance,ATMNetwork,576.32
+GL_ATMNetwork_202507_B008_6410,2025,7,B008,6410,Interchange Fees,ATMNetwork,576.32
+GL_ATMNetwork_202507_B008_6420,2025,7,B008,6420,Cash Handling,ATMNetwork,288.16
+GL_ATMNetwork_202507_B009_6400,2025,7,B009,6400,ATM Maintenance,ATMNetwork,17007.46
+GL_ATMNetwork_202507_B009_6410,2025,7,B009,6410,Interchange Fees,ATMNetwork,17007.46
+GL_ATMNetwork_202507_B009_6420,2025,7,B009,6420,Cash Handling,ATMNetwork,8503.73
+GL_ATMNetwork_202507_B010_6400,2025,7,B010,6400,ATM Maintenance,ATMNetwork,42273.1
+GL_ATMNetwork_202507_B010_6410,2025,7,B010,6410,Interchange Fees,ATMNetwork,42273.1
+GL_ATMNetwork_202507_B010_6420,2025,7,B010,6420,Cash Handling,ATMNetwork,21136.55
+GL_ATMNetwork_202507_B011_6400,2025,7,B011,6400,ATM Maintenance,ATMNetwork,5295.88
+GL_ATMNetwork_202507_B011_6410,2025,7,B011,6410,Interchange Fees,ATMNetwork,5295.88
+GL_ATMNetwork_202507_B011_6420,2025,7,B011,6420,Cash Handling,ATMNetwork,2647.94
+GL_ATMNetwork_202507_B012_6400,2025,7,B012,6400,ATM Maintenance,ATMNetwork,23721.81
+GL_ATMNetwork_202507_B012_6410,2025,7,B012,6410,Interchange Fees,ATMNetwork,23721.81
+GL_ATMNetwork_202507_B012_6420,2025,7,B012,6420,Cash Handling,ATMNetwork,11860.88
+GL_OperationsShared_202507_HQ_6500,2025,7,HQ,6500,Finance & HR,OperationsShared,375440.5
+GL_OperationsShared_202507_HQ_6510,2025,7,HQ,6510,Compliance,OperationsShared,208578.06
+GL_OperationsShared_202507_HQ_6520,2025,7,HQ,6520,IT Shared Services,OperationsShared,250293.67
+GL_OperationsShared_202507_B001_6500,2025,7,B001,6500,Finance & HR,OperationsShared,44923.6
+GL_OperationsShared_202507_B001_6510,2025,7,B001,6510,Compliance,OperationsShared,24957.56
+GL_OperationsShared_202507_B001_6520,2025,7,B001,6520,IT Shared Services,OperationsShared,29949.07
+GL_OperationsShared_202507_B002_6500,2025,7,B002,6500,Finance & HR,OperationsShared,43720.43
+GL_OperationsShared_202507_B002_6510,2025,7,B002,6510,Compliance,OperationsShared,24289.13
+GL_OperationsShared_202507_B002_6520,2025,7,B002,6520,IT Shared Services,OperationsShared,29146.96
+GL_OperationsShared_202507_B003_6500,2025,7,B003,6500,Finance & HR,OperationsShared,15130.82
+GL_OperationsShared_202507_B003_6510,2025,7,B003,6510,Compliance,OperationsShared,8406.01
+GL_OperationsShared_202507_B003_6520,2025,7,B003,6520,IT Shared Services,OperationsShared,10087.22
+GL_OperationsShared_202507_B004_6500,2025,7,B004,6500,Finance & HR,OperationsShared,63.89
+GL_OperationsShared_202507_B004_6510,2025,7,B004,6510,Compliance,OperationsShared,35.5
+GL_OperationsShared_202507_B004_6520,2025,7,B004,6520,IT Shared Services,OperationsShared,42.6
+GL_OperationsShared_202507_B005_6500,2025,7,B005,6500,Finance & HR,OperationsShared,2059.96
+GL_OperationsShared_202507_B005_6510,2025,7,B005,6510,Compliance,OperationsShared,1144.42
+GL_OperationsShared_202507_B005_6520,2025,7,B005,6520,IT Shared Services,OperationsShared,1373.31
+GL_OperationsShared_202507_B006_6500,2025,7,B006,6500,Finance & HR,OperationsShared,7882.13
+GL_OperationsShared_202507_B006_6510,2025,7,B006,6510,Compliance,OperationsShared,4378.96
+GL_OperationsShared_202507_B006_6520,2025,7,B006,6520,IT Shared Services,OperationsShared,5254.75
+GL_OperationsShared_202507_B007_6500,2025,7,B007,6500,Finance & HR,OperationsShared,5166.65
+GL_OperationsShared_202507_B007_6510,2025,7,B007,6510,Compliance,OperationsShared,2870.36
+GL_OperationsShared_202507_B007_6520,2025,7,B007,6520,IT Shared Services,OperationsShared,3444.44
+GL_OperationsShared_202507_B008_6500,2025,7,B008,6500,Finance & HR,OperationsShared,4255.94
+GL_OperationsShared_202507_B008_6510,2025,7,B008,6510,Compliance,OperationsShared,2364.41
+GL_OperationsShared_202507_B008_6520,2025,7,B008,6520,IT Shared Services,OperationsShared,2837.29
+GL_OperationsShared_202507_B009_6500,2025,7,B009,6500,Finance & HR,OperationsShared,77949.82
+GL_OperationsShared_202507_B009_6510,2025,7,B009,6510,Compliance,OperationsShared,43305.45
+GL_OperationsShared_202507_B009_6520,2025,7,B009,6520,IT Shared Services,OperationsShared,51966.54
+GL_OperationsShared_202507_B010_6500,2025,7,B010,6500,Finance & HR,OperationsShared,33976.98
+GL_OperationsShared_202507_B010_6510,2025,7,B010,6510,Compliance,OperationsShared,18876.1
+GL_OperationsShared_202507_B010_6520,2025,7,B010,6520,IT Shared Services,OperationsShared,22651.32
+GL_OperationsShared_202507_B011_6500,2025,7,B011,6500,Finance & HR,OperationsShared,11030.28
+GL_OperationsShared_202507_B011_6510,2025,7,B011,6510,Compliance,OperationsShared,6127.93
+GL_OperationsShared_202507_B011_6520,2025,7,B011,6520,IT Shared Services,OperationsShared,7353.52
+GL_OperationsShared_202507_B012_6500,2025,7,B012,6500,Finance & HR,OperationsShared,4133.16
+GL_OperationsShared_202507_B012_6510,2025,7,B012,6510,Compliance,OperationsShared,2296.2
+GL_OperationsShared_202507_B012_6520,2025,7,B012,6520,IT Shared Services,OperationsShared,2755.44
+GL_ServiceFees_202507_HQ_4300,2025,7,HQ,4300,Deposit Account Service Charges,ServiceFees,47430.23
+GL_ServiceFees_202507_HQ_4305,2025,7,HQ,4305,Overdraft Fees,ServiceFees,20327.24
+GL_ServiceFees_202507_B001_4300,2025,7,B001,4300,Deposit Account Service Charges,ServiceFees,13605.96
+GL_ServiceFees_202507_B001_4305,2025,7,B001,4305,Overdraft Fees,ServiceFees,5831.13
+GL_ServiceFees_202507_B002_4300,2025,7,B002,4300,Deposit Account Service Charges,ServiceFees,59528.23
+GL_ServiceFees_202507_B002_4305,2025,7,B002,4305,Overdraft Fees,ServiceFees,25512.1
+GL_ServiceFees_202507_B003_4300,2025,7,B003,4300,Deposit Account Service Charges,ServiceFees,35014.93
+GL_ServiceFees_202507_B003_4305,2025,7,B003,4305,Overdraft Fees,ServiceFees,15006.4
+GL_ServiceFees_202507_B004_4300,2025,7,B004,4300,Deposit Account Service Charges,ServiceFees,76329.6
+GL_ServiceFees_202507_B004_4305,2025,7,B004,4305,Overdraft Fees,ServiceFees,32712.69
+GL_ServiceFees_202507_B005_4300,2025,7,B005,4300,Deposit Account Service Charges,ServiceFees,22302.7
+GL_ServiceFees_202507_B005_4305,2025,7,B005,4305,Overdraft Fees,ServiceFees,9558.3
+GL_ServiceFees_202507_B006_4300,2025,7,B006,4300,Deposit Account Service Charges,ServiceFees,15468.76
+GL_ServiceFees_202507_B006_4305,2025,7,B006,4305,Overdraft Fees,ServiceFees,6629.47
+GL_ServiceFees_202507_B007_4300,2025,7,B007,4300,Deposit Account Service Charges,ServiceFees,16953.33
+GL_ServiceFees_202507_B007_4305,2025,7,B007,4305,Overdraft Fees,ServiceFees,7265.71
+GL_ServiceFees_202507_B008_4300,2025,7,B008,4300,Deposit Account Service Charges,ServiceFees,89000.28
+GL_ServiceFees_202507_B008_4305,2025,7,B008,4305,Overdraft Fees,ServiceFees,38142.98
+GL_ServiceFees_202507_B009_4300,2025,7,B009,4300,Deposit Account Service Charges,ServiceFees,1535.71
+GL_ServiceFees_202507_B009_4305,2025,7,B009,4305,Overdraft Fees,ServiceFees,658.16
+GL_ServiceFees_202507_B010_4300,2025,7,B010,4300,Deposit Account Service Charges,ServiceFees,32095.1
+GL_ServiceFees_202507_B010_4305,2025,7,B010,4305,Overdraft Fees,ServiceFees,13755.04
+GL_ServiceFees_202507_B011_4300,2025,7,B011,4300,Deposit Account Service Charges,ServiceFees,61073.77
+GL_ServiceFees_202507_B011_4305,2025,7,B011,4305,Overdraft Fees,ServiceFees,26174.47
+GL_ServiceFees_202507_B012_4300,2025,7,B012,4300,Deposit Account Service Charges,ServiceFees,19173.49
+GL_ServiceFees_202507_B012_4305,2025,7,B012,4305,Overdraft Fees,ServiceFees,8217.21
+GL_CardInterchange_202507_HQ_4310,2025,7,HQ,4310,Card Interchange Income,CardInterchange,31497.5
+GL_CardInterchange_202507_B001_4310,2025,7,B001,4310,Card Interchange Income,CardInterchange,14421.97
+GL_CardInterchange_202507_B002_4310,2025,7,B002,4310,Card Interchange Income,CardInterchange,83307.99
+GL_CardInterchange_202507_B003_4310,2025,7,B003,4310,Card Interchange Income,CardInterchange,13627.4
+GL_CardInterchange_202507_B004_4310,2025,7,B004,4310,Card Interchange Income,CardInterchange,2484.84
+GL_CardInterchange_202507_B005_4310,2025,7,B005,4310,Card Interchange Income,CardInterchange,7407.03
+GL_CardInterchange_202507_B006_4310,2025,7,B006,4310,Card Interchange Income,CardInterchange,61887.47
+GL_CardInterchange_202507_B007_4310,2025,7,B007,4310,Card Interchange Income,CardInterchange,59414.37
+GL_CardInterchange_202507_B008_4310,2025,7,B008,4310,Card Interchange Income,CardInterchange,74643.16
+GL_CardInterchange_202507_B009_4310,2025,7,B009,4310,Card Interchange Income,CardInterchange,64647.69
+GL_CardInterchange_202507_B010_4310,2025,7,B010,4310,Card Interchange Income,CardInterchange,69148.78
+GL_CardInterchange_202507_B011_4310,2025,7,B011,4310,Card Interchange Income,CardInterchange,3917.72
+GL_CardInterchange_202507_B012_4310,2025,7,B012,4310,Card Interchange Income,CardInterchange,54440.55
+GL_BrokerageFees_202507_HQ_4320,2025,7,HQ,4320,Brokerage Commissions,BrokerageFees,249.48
+GL_BrokerageFees_202507_HQ_4325,2025,7,HQ,4325,Advisory Fees,BrokerageFees,166.32
+GL_BrokerageFees_202507_B001_4320,2025,7,B001,4320,Brokerage Commissions,BrokerageFees,4292.02
+GL_BrokerageFees_202507_B001_4325,2025,7,B001,4325,Advisory Fees,BrokerageFees,2861.34
+GL_BrokerageFees_202507_B002_4320,2025,7,B002,4320,Brokerage Commissions,BrokerageFees,1419.63
+GL_BrokerageFees_202507_B002_4325,2025,7,B002,4325,Advisory Fees,BrokerageFees,946.42
+GL_BrokerageFees_202507_B003_4320,2025,7,B003,4320,Brokerage Commissions,BrokerageFees,57721.71
+GL_BrokerageFees_202507_B003_4325,2025,7,B003,4325,Advisory Fees,BrokerageFees,38481.14
+GL_BrokerageFees_202507_B004_4320,2025,7,B004,4320,Brokerage Commissions,BrokerageFees,3975.91
+GL_BrokerageFees_202507_B004_4325,2025,7,B004,4325,Advisory Fees,BrokerageFees,2650.6
+GL_BrokerageFees_202507_B005_4320,2025,7,B005,4320,Brokerage Commissions,BrokerageFees,9197.16
+GL_BrokerageFees_202507_B005_4325,2025,7,B005,4325,Advisory Fees,BrokerageFees,6131.44
+GL_BrokerageFees_202507_B006_4320,2025,7,B006,4320,Brokerage Commissions,BrokerageFees,5282.61
+GL_BrokerageFees_202507_B006_4325,2025,7,B006,4325,Advisory Fees,BrokerageFees,3521.74
+GL_BrokerageFees_202507_B007_4320,2025,7,B007,4320,Brokerage Commissions,BrokerageFees,12204.53
+GL_BrokerageFees_202507_B007_4325,2025,7,B007,4325,Advisory Fees,BrokerageFees,8136.35
+GL_BrokerageFees_202507_B008_4320,2025,7,B008,4320,Brokerage Commissions,BrokerageFees,9678.48
+GL_BrokerageFees_202507_B008_4325,2025,7,B008,4325,Advisory Fees,BrokerageFees,6452.32
+GL_BrokerageFees_202507_B009_4320,2025,7,B009,4320,Brokerage Commissions,BrokerageFees,28366.62
+GL_BrokerageFees_202507_B009_4325,2025,7,B009,4325,Advisory Fees,BrokerageFees,18911.08
+GL_BrokerageFees_202507_B010_4320,2025,7,B010,4320,Brokerage Commissions,BrokerageFees,22422.37
+GL_BrokerageFees_202507_B010_4325,2025,7,B010,4325,Advisory Fees,BrokerageFees,14948.25
+GL_BrokerageFees_202507_B011_4320,2025,7,B011,4320,Brokerage Commissions,BrokerageFees,24430.26
+GL_BrokerageFees_202507_B011_4325,2025,7,B011,4325,Advisory Fees,BrokerageFees,16286.84
+GL_BrokerageFees_202507_B012_4320,2025,7,B012,4320,Brokerage Commissions,BrokerageFees,13627.14
+GL_BrokerageFees_202507_B012_4325,2025,7,B012,4325,Advisory Fees,BrokerageFees,9084.74
+GL_InterestIncomeLoans_202507_HQ_4100,2025,7,HQ,4100,Interest Income - Loans,InterestIncomeLoans,302038.75
+GL_InterestIncomeLoans_202507_B001_4100,2025,7,B001,4100,Interest Income - Loans,InterestIncomeLoans,562878.93
+GL_InterestIncomeLoans_202507_B002_4100,2025,7,B002,4100,Interest Income - Loans,InterestIncomeLoans,19144.0
+GL_InterestIncomeLoans_202507_B003_4100,2025,7,B003,4100,Interest Income - Loans,InterestIncomeLoans,338807.34
+GL_InterestIncomeLoans_202507_B004_4100,2025,7,B004,4100,Interest Income - Loans,InterestIncomeLoans,4970.13
+GL_InterestIncomeLoans_202507_B005_4100,2025,7,B005,4100,Interest Income - Loans,InterestIncomeLoans,732724.02
+GL_InterestIncomeLoans_202507_B006_4100,2025,7,B006,4100,Interest Income - Loans,InterestIncomeLoans,23631.94
+GL_InterestIncomeLoans_202507_B007_4100,2025,7,B007,4100,Interest Income - Loans,InterestIncomeLoans,16705.35
+GL_InterestIncomeLoans_202507_B008_4100,2025,7,B008,4100,Interest Income - Loans,InterestIncomeLoans,791337.16
+GL_InterestIncomeLoans_202507_B009_4100,2025,7,B009,4100,Interest Income - Loans,InterestIncomeLoans,150291.76
+GL_InterestIncomeLoans_202507_B010_4100,2025,7,B010,4100,Interest Income - Loans,InterestIncomeLoans,256550.61
+GL_InterestIncomeLoans_202507_B011_4100,2025,7,B011,4100,Interest Income - Loans,InterestIncomeLoans,15640.32
+GL_InterestIncomeLoans_202507_B012_4100,2025,7,B012,4100,Interest Income - Loans,InterestIncomeLoans,201490.92
+GL_InterestIncomeSecurities_202507_HQ_4200,2025,7,HQ,4200,Interest Income - Securities,InterestIncomeSecurities,529566.66
+GL_InterestIncomeSecurities_202507_B001_4200,2025,7,B001,4200,Interest Income - Securities,InterestIncomeSecurities,30603.98
+GL_InterestIncomeSecurities_202507_B002_4200,2025,7,B002,4200,Interest Income - Securities,InterestIncomeSecurities,14153.82
+GL_InterestIncomeSecurities_202507_B003_4200,2025,7,B003,4200,Interest Income - Securities,InterestIncomeSecurities,12214.88
+GL_InterestIncomeSecurities_202507_B004_4200,2025,7,B004,4200,Interest Income - Securities,InterestIncomeSecurities,57259.96
+GL_InterestIncomeSecurities_202507_B005_4200,2025,7,B005,4200,Interest Income - Securities,InterestIncomeSecurities,478.3
+GL_InterestIncomeSecurities_202507_B006_4200,2025,7,B006,4200,Interest Income - Securities,InterestIncomeSecurities,23448.77
+GL_InterestIncomeSecurities_202507_B007_4200,2025,7,B007,4200,Interest Income - Securities,InterestIncomeSecurities,78623.12
+GL_InterestIncomeSecurities_202507_B008_4200,2025,7,B008,4200,Interest Income - Securities,InterestIncomeSecurities,72687.75
+GL_InterestIncomeSecurities_202507_B009_4200,2025,7,B009,4200,Interest Income - Securities,InterestIncomeSecurities,10351.02
+GL_InterestIncomeSecurities_202507_B010_4200,2025,7,B010,4200,Interest Income - Securities,InterestIncomeSecurities,6758.88
+GL_InterestIncomeSecurities_202507_B011_4200,2025,7,B011,4200,Interest Income - Securities,InterestIncomeSecurities,31465.78
+GL_InterestIncomeSecurities_202507_B012_4200,2025,7,B012,4200,Interest Income - Securities,InterestIncomeSecurities,14998.18
+GL_InterestExpenseDeposits_202507_HQ_5100,2025,7,HQ,5100,Interest Expense - Deposits,InterestExpenseDeposits,90844.05
+GL_InterestExpenseDeposits_202507_B001_5100,2025,7,B001,5100,Interest Expense - Deposits,InterestExpenseDeposits,25268.77
+GL_InterestExpenseDeposits_202507_B002_5100,2025,7,B002,5100,Interest Expense - Deposits,InterestExpenseDeposits,178421.32
+GL_InterestExpenseDeposits_202507_B003_5100,2025,7,B003,5100,Interest Expense - Deposits,InterestExpenseDeposits,92706.3
+GL_InterestExpenseDeposits_202507_B004_5100,2025,7,B004,5100,Interest Expense - Deposits,InterestExpenseDeposits,238703.76
+GL_InterestExpenseDeposits_202507_B005_5100,2025,7,B005,5100,Interest Expense - Deposits,InterestExpenseDeposits,204459.21
+GL_InterestExpenseDeposits_202507_B006_5100,2025,7,B006,5100,Interest Expense - Deposits,InterestExpenseDeposits,160664.33
+GL_InterestExpenseDeposits_202507_B007_5100,2025,7,B007,5100,Interest Expense - Deposits,InterestExpenseDeposits,5578.3
+GL_InterestExpenseDeposits_202507_B008_5100,2025,7,B008,5100,Interest Expense - Deposits,InterestExpenseDeposits,374428.81
+GL_InterestExpenseDeposits_202507_B009_5100,2025,7,B009,5100,Interest Expense - Deposits,InterestExpenseDeposits,124827.98
+GL_InterestExpenseDeposits_202507_B010_5100,2025,7,B010,5100,Interest Expense - Deposits,InterestExpenseDeposits,11399.35
+GL_InterestExpenseDeposits_202507_B011_5100,2025,7,B011,5100,Interest Expense - Deposits,InterestExpenseDeposits,42943.8
+GL_InterestExpenseDeposits_202507_B012_5100,2025,7,B012,5100,Interest Expense - Deposits,InterestExpenseDeposits,97906.0
+GL_InterestExpenseBorrowings_202507_HQ_5200,2025,7,HQ,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,22764.97
+GL_InterestExpenseBorrowings_202507_B001_5200,2025,7,B001,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,9729.56
+GL_InterestExpenseBorrowings_202507_B002_5200,2025,7,B002,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,30934.93
+GL_InterestExpenseBorrowings_202507_B003_5200,2025,7,B003,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,46978.86
+GL_InterestExpenseBorrowings_202507_B004_5200,2025,7,B004,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,21544.57
+GL_InterestExpenseBorrowings_202507_B005_5200,2025,7,B005,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,83468.92
+GL_InterestExpenseBorrowings_202507_B006_5200,2025,7,B006,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,42405.34
+GL_InterestExpenseBorrowings_202507_B007_5200,2025,7,B007,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,10756.53
+GL_InterestExpenseBorrowings_202507_B008_5200,2025,7,B008,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,5091.35
+GL_InterestExpenseBorrowings_202507_B009_5200,2025,7,B009,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,26649.17
+GL_InterestExpenseBorrowings_202507_B010_5200,2025,7,B010,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,19332.34
+GL_InterestExpenseBorrowings_202507_B011_5200,2025,7,B011,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,13634.81
+GL_InterestExpenseBorrowings_202507_B012_5200,2025,7,B012,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,58828.68
+GL_ProvisionForCreditLosses_202507_HQ_5300,2025,7,HQ,5300,Provision for Credit Losses,ProvisionForCreditLosses,669.0
+GL_ProvisionForCreditLosses_202507_B001_5300,2025,7,B001,5300,Provision for Credit Losses,ProvisionForCreditLosses,3666.81
+GL_ProvisionForCreditLosses_202507_B002_5300,2025,7,B002,5300,Provision for Credit Losses,ProvisionForCreditLosses,10064.77
+GL_ProvisionForCreditLosses_202507_B003_5300,2025,7,B003,5300,Provision for Credit Losses,ProvisionForCreditLosses,49270.53
+GL_ProvisionForCreditLosses_202507_B004_5300,2025,7,B004,5300,Provision for Credit Losses,ProvisionForCreditLosses,26797.42
+GL_ProvisionForCreditLosses_202507_B005_5300,2025,7,B005,5300,Provision for Credit Losses,ProvisionForCreditLosses,40877.75
+GL_ProvisionForCreditLosses_202507_B006_5300,2025,7,B006,5300,Provision for Credit Losses,ProvisionForCreditLosses,4723.52
+GL_ProvisionForCreditLosses_202507_B007_5300,2025,7,B007,5300,Provision for Credit Losses,ProvisionForCreditLosses,1223.3
+GL_ProvisionForCreditLosses_202507_B008_5300,2025,7,B008,5300,Provision for Credit Losses,ProvisionForCreditLosses,42851.21
+GL_ProvisionForCreditLosses_202507_B009_5300,2025,7,B009,5300,Provision for Credit Losses,ProvisionForCreditLosses,22989.25
+GL_ProvisionForCreditLosses_202507_B010_5300,2025,7,B010,5300,Provision for Credit Losses,ProvisionForCreditLosses,10584.18
+GL_ProvisionForCreditLosses_202507_B011_5300,2025,7,B011,5300,Provision for Credit Losses,ProvisionForCreditLosses,1067.7
+GL_ProvisionForCreditLosses_202507_B012_5300,2025,7,B012,5300,Provision for Credit Losses,ProvisionForCreditLosses,10993.68
+GL_IncomeTaxExpense_202507_HQ_7100,2025,7,HQ,7100,Income Tax Expense,IncomeTaxExpense,503838.66
+GL_IncomeTaxExpense_202507_B001_7100,2025,7,B001,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B002_7100,2025,7,B002,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B003_7100,2025,7,B003,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B004_7100,2025,7,B004,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B005_7100,2025,7,B005,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B006_7100,2025,7,B006,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B007_7100,2025,7,B007,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B008_7100,2025,7,B008,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B009_7100,2025,7,B009,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B010_7100,2025,7,B010,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B011_7100,2025,7,B011,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202507_B012_7100,2025,7,B012,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_CallCenterOpex_202508_HQ_6100,2025,8,HQ,6100,Call Center Salaries,CallCenterOpex,22577.13
+GL_CallCenterOpex_202508_HQ_6110,2025,8,HQ,6110,Telecom Expense,CallCenterOpex,10262.33
+GL_CallCenterOpex_202508_HQ_6120,2025,8,HQ,6120,Call Center Rent,CallCenterOpex,8209.86
+GL_CallCenterOpex_202508_B001_6100,2025,8,B001,6100,Call Center Salaries,CallCenterOpex,77702.87
+GL_CallCenterOpex_202508_B001_6110,2025,8,B001,6110,Telecom Expense,CallCenterOpex,35319.48
+GL_CallCenterOpex_202508_B001_6120,2025,8,B001,6120,Call Center Rent,CallCenterOpex,28255.59
+GL_CallCenterOpex_202508_B002_6100,2025,8,B002,6100,Call Center Salaries,CallCenterOpex,4336.98
+GL_CallCenterOpex_202508_B002_6110,2025,8,B002,6110,Telecom Expense,CallCenterOpex,1971.35
+GL_CallCenterOpex_202508_B002_6120,2025,8,B002,6120,Call Center Rent,CallCenterOpex,1577.08
+GL_CallCenterOpex_202508_B003_6100,2025,8,B003,6100,Call Center Salaries,CallCenterOpex,55806.99
+GL_CallCenterOpex_202508_B003_6110,2025,8,B003,6110,Telecom Expense,CallCenterOpex,25366.81
+GL_CallCenterOpex_202508_B003_6120,2025,8,B003,6120,Call Center Rent,CallCenterOpex,20293.45
+GL_CallCenterOpex_202508_B004_6100,2025,8,B004,6100,Call Center Salaries,CallCenterOpex,25438.03
+GL_CallCenterOpex_202508_B004_6110,2025,8,B004,6110,Telecom Expense,CallCenterOpex,11562.74
+GL_CallCenterOpex_202508_B004_6120,2025,8,B004,6120,Call Center Rent,CallCenterOpex,9250.19
+GL_CallCenterOpex_202508_B005_6100,2025,8,B005,6100,Call Center Salaries,CallCenterOpex,175938.52
+GL_CallCenterOpex_202508_B005_6110,2025,8,B005,6110,Telecom Expense,CallCenterOpex,79972.06
+GL_CallCenterOpex_202508_B005_6120,2025,8,B005,6120,Call Center Rent,CallCenterOpex,63977.65
+GL_CallCenterOpex_202508_B006_6100,2025,8,B006,6100,Call Center Salaries,CallCenterOpex,32806.31
+GL_CallCenterOpex_202508_B006_6110,2025,8,B006,6110,Telecom Expense,CallCenterOpex,14911.96
+GL_CallCenterOpex_202508_B006_6120,2025,8,B006,6120,Call Center Rent,CallCenterOpex,11929.57
+GL_CallCenterOpex_202508_B007_6100,2025,8,B007,6100,Call Center Salaries,CallCenterOpex,51455.49
+GL_CallCenterOpex_202508_B007_6110,2025,8,B007,6110,Telecom Expense,CallCenterOpex,23388.86
+GL_CallCenterOpex_202508_B007_6120,2025,8,B007,6120,Call Center Rent,CallCenterOpex,18711.09
+GL_CallCenterOpex_202508_B008_6100,2025,8,B008,6100,Call Center Salaries,CallCenterOpex,98424.63
+GL_CallCenterOpex_202508_B008_6110,2025,8,B008,6110,Telecom Expense,CallCenterOpex,44738.47
+GL_CallCenterOpex_202508_B008_6120,2025,8,B008,6120,Call Center Rent,CallCenterOpex,35790.78
+GL_CallCenterOpex_202508_B009_6100,2025,8,B009,6100,Call Center Salaries,CallCenterOpex,10774.57
+GL_CallCenterOpex_202508_B009_6110,2025,8,B009,6110,Telecom Expense,CallCenterOpex,4897.53
+GL_CallCenterOpex_202508_B009_6120,2025,8,B009,6120,Call Center Rent,CallCenterOpex,3918.03
+GL_CallCenterOpex_202508_B010_6100,2025,8,B010,6100,Call Center Salaries,CallCenterOpex,35586.72
+GL_CallCenterOpex_202508_B010_6110,2025,8,B010,6110,Telecom Expense,CallCenterOpex,16175.78
+GL_CallCenterOpex_202508_B010_6120,2025,8,B010,6120,Call Center Rent,CallCenterOpex,12940.62
+GL_CallCenterOpex_202508_B011_6100,2025,8,B011,6100,Call Center Salaries,CallCenterOpex,57895.15
+GL_CallCenterOpex_202508_B011_6110,2025,8,B011,6110,Telecom Expense,CallCenterOpex,26315.98
+GL_CallCenterOpex_202508_B011_6120,2025,8,B011,6120,Call Center Rent,CallCenterOpex,21052.78
+GL_CallCenterOpex_202508_B012_6100,2025,8,B012,6100,Call Center Salaries,CallCenterOpex,41911.98
+GL_CallCenterOpex_202508_B012_6110,2025,8,B012,6110,Telecom Expense,CallCenterOpex,19050.9
+GL_CallCenterOpex_202508_B012_6120,2025,8,B012,6120,Call Center Rent,CallCenterOpex,15240.73
+GL_BranchOpex_202508_HQ_6200,2025,8,HQ,6200,Branch Salaries,BranchOpex,80284.53
+GL_BranchOpex_202508_HQ_6210,2025,8,HQ,6210,Branch Rent,BranchOpex,29194.37
+GL_BranchOpex_202508_HQ_6220,2025,8,HQ,6220,Branch Utilities,BranchOpex,21895.78
+GL_BranchOpex_202508_HQ_6230,2025,8,HQ,6230,Branch Supplies,BranchOpex,14597.19
+GL_BranchOpex_202508_B001_6200,2025,8,B001,6200,Branch Salaries,BranchOpex,225585.66
+GL_BranchOpex_202508_B001_6210,2025,8,B001,6210,Branch Rent,BranchOpex,82031.15
+GL_BranchOpex_202508_B001_6220,2025,8,B001,6220,Branch Utilities,BranchOpex,61523.36
+GL_BranchOpex_202508_B001_6230,2025,8,B001,6230,Branch Supplies,BranchOpex,41015.57
+GL_BranchOpex_202508_B002_6200,2025,8,B002,6200,Branch Salaries,BranchOpex,53742.77
+GL_BranchOpex_202508_B002_6210,2025,8,B002,6210,Branch Rent,BranchOpex,19542.83
+GL_BranchOpex_202508_B002_6220,2025,8,B002,6220,Branch Utilities,BranchOpex,14657.12
+GL_BranchOpex_202508_B002_6230,2025,8,B002,6230,Branch Supplies,BranchOpex,9771.41
+GL_BranchOpex_202508_B003_6200,2025,8,B003,6200,Branch Salaries,BranchOpex,231792.81
+GL_BranchOpex_202508_B003_6210,2025,8,B003,6210,Branch Rent,BranchOpex,84288.29
+GL_BranchOpex_202508_B003_6220,2025,8,B003,6220,Branch Utilities,BranchOpex,63216.22
+GL_BranchOpex_202508_B003_6230,2025,8,B003,6230,Branch Supplies,BranchOpex,42144.15
+GL_BranchOpex_202508_B004_6200,2025,8,B004,6200,Branch Salaries,BranchOpex,85545.72
+GL_BranchOpex_202508_B004_6210,2025,8,B004,6210,Branch Rent,BranchOpex,31107.54
+GL_BranchOpex_202508_B004_6220,2025,8,B004,6220,Branch Utilities,BranchOpex,23330.65
+GL_BranchOpex_202508_B004_6230,2025,8,B004,6230,Branch Supplies,BranchOpex,15553.77
+GL_BranchOpex_202508_B005_6200,2025,8,B005,6200,Branch Salaries,BranchOpex,154179.28
+GL_BranchOpex_202508_B005_6210,2025,8,B005,6210,Branch Rent,BranchOpex,56065.19
+GL_BranchOpex_202508_B005_6220,2025,8,B005,6220,Branch Utilities,BranchOpex,42048.89
+GL_BranchOpex_202508_B005_6230,2025,8,B005,6230,Branch Supplies,BranchOpex,28032.6
+GL_BranchOpex_202508_B006_6200,2025,8,B006,6200,Branch Salaries,BranchOpex,90022.84
+GL_BranchOpex_202508_B006_6210,2025,8,B006,6210,Branch Rent,BranchOpex,32735.58
+GL_BranchOpex_202508_B006_6220,2025,8,B006,6220,Branch Utilities,BranchOpex,24551.68
+GL_BranchOpex_202508_B006_6230,2025,8,B006,6230,Branch Supplies,BranchOpex,16367.79
+GL_BranchOpex_202508_B007_6200,2025,8,B007,6200,Branch Salaries,BranchOpex,24054.77
+GL_BranchOpex_202508_B007_6210,2025,8,B007,6210,Branch Rent,BranchOpex,8747.19
+GL_BranchOpex_202508_B007_6220,2025,8,B007,6220,Branch Utilities,BranchOpex,6560.39
+GL_BranchOpex_202508_B007_6230,2025,8,B007,6230,Branch Supplies,BranchOpex,4373.59
+GL_BranchOpex_202508_B008_6200,2025,8,B008,6200,Branch Salaries,BranchOpex,30060.67
+GL_BranchOpex_202508_B008_6210,2025,8,B008,6210,Branch Rent,BranchOpex,10931.15
+GL_BranchOpex_202508_B008_6220,2025,8,B008,6220,Branch Utilities,BranchOpex,8198.37
+GL_BranchOpex_202508_B008_6230,2025,8,B008,6230,Branch Supplies,BranchOpex,5465.58
+GL_BranchOpex_202508_B009_6200,2025,8,B009,6200,Branch Salaries,BranchOpex,78181.81
+GL_BranchOpex_202508_B009_6210,2025,8,B009,6210,Branch Rent,BranchOpex,28429.75
+GL_BranchOpex_202508_B009_6220,2025,8,B009,6220,Branch Utilities,BranchOpex,21322.31
+GL_BranchOpex_202508_B009_6230,2025,8,B009,6230,Branch Supplies,BranchOpex,14214.88
+GL_BranchOpex_202508_B010_6200,2025,8,B010,6200,Branch Salaries,BranchOpex,33091.37
+GL_BranchOpex_202508_B010_6210,2025,8,B010,6210,Branch Rent,BranchOpex,12033.23
+GL_BranchOpex_202508_B010_6220,2025,8,B010,6220,Branch Utilities,BranchOpex,9024.92
+GL_BranchOpex_202508_B010_6230,2025,8,B010,6230,Branch Supplies,BranchOpex,6016.61
+GL_BranchOpex_202508_B011_6200,2025,8,B011,6200,Branch Salaries,BranchOpex,118983.89
+GL_BranchOpex_202508_B011_6210,2025,8,B011,6210,Branch Rent,BranchOpex,43266.87
+GL_BranchOpex_202508_B011_6220,2025,8,B011,6220,Branch Utilities,BranchOpex,32450.15
+GL_BranchOpex_202508_B011_6230,2025,8,B011,6230,Branch Supplies,BranchOpex,21633.43
+GL_BranchOpex_202508_B012_6200,2025,8,B012,6200,Branch Salaries,BranchOpex,41972.8
+GL_BranchOpex_202508_B012_6210,2025,8,B012,6210,Branch Rent,BranchOpex,15262.84
+GL_BranchOpex_202508_B012_6220,2025,8,B012,6220,Branch Utilities,BranchOpex,11447.13
+GL_BranchOpex_202508_B012_6230,2025,8,B012,6230,Branch Supplies,BranchOpex,7631.42
+GL_DigitalPlatform_202508_HQ_6300,2025,8,HQ,6300,Cloud Hosting,DigitalPlatform,282647.83
+GL_DigitalPlatform_202508_HQ_6310,2025,8,HQ,6310,Software Licenses,DigitalPlatform,169588.7
+GL_DigitalPlatform_202508_HQ_6320,2025,8,HQ,6320,DevOps & Monitoring,DigitalPlatform,113059.13
+GL_DigitalPlatform_202508_B001_6300,2025,8,B001,6300,Cloud Hosting,DigitalPlatform,14946.59
+GL_DigitalPlatform_202508_B001_6310,2025,8,B001,6310,Software Licenses,DigitalPlatform,8967.96
+GL_DigitalPlatform_202508_B001_6320,2025,8,B001,6320,DevOps & Monitoring,DigitalPlatform,5978.64
+GL_DigitalPlatform_202508_B002_6300,2025,8,B002,6300,Cloud Hosting,DigitalPlatform,22735.21
+GL_DigitalPlatform_202508_B002_6310,2025,8,B002,6310,Software Licenses,DigitalPlatform,13641.13
+GL_DigitalPlatform_202508_B002_6320,2025,8,B002,6320,DevOps & Monitoring,DigitalPlatform,9094.09
+GL_DigitalPlatform_202508_B003_6300,2025,8,B003,6300,Cloud Hosting,DigitalPlatform,16261.49
+GL_DigitalPlatform_202508_B003_6310,2025,8,B003,6310,Software Licenses,DigitalPlatform,9756.89
+GL_DigitalPlatform_202508_B003_6320,2025,8,B003,6320,DevOps & Monitoring,DigitalPlatform,6504.6
+GL_DigitalPlatform_202508_B004_6300,2025,8,B004,6300,Cloud Hosting,DigitalPlatform,18230.5
+GL_DigitalPlatform_202508_B004_6310,2025,8,B004,6310,Software Licenses,DigitalPlatform,10938.3
+GL_DigitalPlatform_202508_B004_6320,2025,8,B004,6320,DevOps & Monitoring,DigitalPlatform,7292.2
+GL_DigitalPlatform_202508_B005_6300,2025,8,B005,6300,Cloud Hosting,DigitalPlatform,10627.38
+GL_DigitalPlatform_202508_B005_6310,2025,8,B005,6310,Software Licenses,DigitalPlatform,6376.43
+GL_DigitalPlatform_202508_B005_6320,2025,8,B005,6320,DevOps & Monitoring,DigitalPlatform,4250.95
+GL_DigitalPlatform_202508_B006_6300,2025,8,B006,6300,Cloud Hosting,DigitalPlatform,26455.54
+GL_DigitalPlatform_202508_B006_6310,2025,8,B006,6310,Software Licenses,DigitalPlatform,15873.32
+GL_DigitalPlatform_202508_B006_6320,2025,8,B006,6320,DevOps & Monitoring,DigitalPlatform,10582.21
+GL_DigitalPlatform_202508_B007_6300,2025,8,B007,6300,Cloud Hosting,DigitalPlatform,14981.01
+GL_DigitalPlatform_202508_B007_6310,2025,8,B007,6310,Software Licenses,DigitalPlatform,8988.61
+GL_DigitalPlatform_202508_B007_6320,2025,8,B007,6320,DevOps & Monitoring,DigitalPlatform,5992.41
+GL_DigitalPlatform_202508_B008_6300,2025,8,B008,6300,Cloud Hosting,DigitalPlatform,4028.28
+GL_DigitalPlatform_202508_B008_6310,2025,8,B008,6310,Software Licenses,DigitalPlatform,2416.97
+GL_DigitalPlatform_202508_B008_6320,2025,8,B008,6320,DevOps & Monitoring,DigitalPlatform,1611.31
+GL_DigitalPlatform_202508_B009_6300,2025,8,B009,6300,Cloud Hosting,DigitalPlatform,20069.6
+GL_DigitalPlatform_202508_B009_6310,2025,8,B009,6310,Software Licenses,DigitalPlatform,12041.76
+GL_DigitalPlatform_202508_B009_6320,2025,8,B009,6320,DevOps & Monitoring,DigitalPlatform,8027.84
+GL_DigitalPlatform_202508_B010_6300,2025,8,B010,6300,Cloud Hosting,DigitalPlatform,9252.48
+GL_DigitalPlatform_202508_B010_6310,2025,8,B010,6310,Software Licenses,DigitalPlatform,5551.49
+GL_DigitalPlatform_202508_B010_6320,2025,8,B010,6320,DevOps & Monitoring,DigitalPlatform,3700.99
+GL_DigitalPlatform_202508_B011_6300,2025,8,B011,6300,Cloud Hosting,DigitalPlatform,10168.17
+GL_DigitalPlatform_202508_B011_6310,2025,8,B011,6310,Software Licenses,DigitalPlatform,6100.9
+GL_DigitalPlatform_202508_B011_6320,2025,8,B011,6320,DevOps & Monitoring,DigitalPlatform,4067.27
+GL_DigitalPlatform_202508_B012_6300,2025,8,B012,6300,Cloud Hosting,DigitalPlatform,20675.63
+GL_DigitalPlatform_202508_B012_6310,2025,8,B012,6310,Software Licenses,DigitalPlatform,12405.38
+GL_DigitalPlatform_202508_B012_6320,2025,8,B012,6320,DevOps & Monitoring,DigitalPlatform,8270.23
+GL_ATMNetwork_202508_HQ_6400,2025,8,HQ,6400,ATM Maintenance,ATMNetwork,17968.02
+GL_ATMNetwork_202508_HQ_6410,2025,8,HQ,6410,Interchange Fees,ATMNetwork,17968.02
+GL_ATMNetwork_202508_HQ_6420,2025,8,HQ,6420,Cash Handling,ATMNetwork,8984.01
+GL_ATMNetwork_202508_B001_6400,2025,8,B001,6400,ATM Maintenance,ATMNetwork,9265.77
+GL_ATMNetwork_202508_B001_6410,2025,8,B001,6410,Interchange Fees,ATMNetwork,9265.77
+GL_ATMNetwork_202508_B001_6420,2025,8,B001,6420,Cash Handling,ATMNetwork,4632.88
+GL_ATMNetwork_202508_B002_6400,2025,8,B002,6400,ATM Maintenance,ATMNetwork,22290.54
+GL_ATMNetwork_202508_B002_6410,2025,8,B002,6410,Interchange Fees,ATMNetwork,22290.54
+GL_ATMNetwork_202508_B002_6420,2025,8,B002,6420,Cash Handling,ATMNetwork,11145.27
+GL_ATMNetwork_202508_B003_6400,2025,8,B003,6400,ATM Maintenance,ATMNetwork,6288.53
+GL_ATMNetwork_202508_B003_6410,2025,8,B003,6410,Interchange Fees,ATMNetwork,6288.53
+GL_ATMNetwork_202508_B003_6420,2025,8,B003,6420,Cash Handling,ATMNetwork,3144.26
+GL_ATMNetwork_202508_B004_6400,2025,8,B004,6400,ATM Maintenance,ATMNetwork,20393.26
+GL_ATMNetwork_202508_B004_6410,2025,8,B004,6410,Interchange Fees,ATMNetwork,20393.26
+GL_ATMNetwork_202508_B004_6420,2025,8,B004,6420,Cash Handling,ATMNetwork,10196.63
+GL_ATMNetwork_202508_B005_6400,2025,8,B005,6400,ATM Maintenance,ATMNetwork,7609.84
+GL_ATMNetwork_202508_B005_6410,2025,8,B005,6410,Interchange Fees,ATMNetwork,7609.84
+GL_ATMNetwork_202508_B005_6420,2025,8,B005,6420,Cash Handling,ATMNetwork,3804.92
+GL_ATMNetwork_202508_B006_6400,2025,8,B006,6400,ATM Maintenance,ATMNetwork,15123.02
+GL_ATMNetwork_202508_B006_6410,2025,8,B006,6410,Interchange Fees,ATMNetwork,15123.02
+GL_ATMNetwork_202508_B006_6420,2025,8,B006,6420,Cash Handling,ATMNetwork,7561.51
+GL_ATMNetwork_202508_B007_6400,2025,8,B007,6400,ATM Maintenance,ATMNetwork,3366.42
+GL_ATMNetwork_202508_B007_6410,2025,8,B007,6410,Interchange Fees,ATMNetwork,3366.42
+GL_ATMNetwork_202508_B007_6420,2025,8,B007,6420,Cash Handling,ATMNetwork,1683.21
+GL_ATMNetwork_202508_B008_6400,2025,8,B008,6400,ATM Maintenance,ATMNetwork,611.13
+GL_ATMNetwork_202508_B008_6410,2025,8,B008,6410,Interchange Fees,ATMNetwork,611.13
+GL_ATMNetwork_202508_B008_6420,2025,8,B008,6420,Cash Handling,ATMNetwork,305.57
+GL_ATMNetwork_202508_B009_6400,2025,8,B009,6400,ATM Maintenance,ATMNetwork,18034.74
+GL_ATMNetwork_202508_B009_6410,2025,8,B009,6410,Interchange Fees,ATMNetwork,18034.74
+GL_ATMNetwork_202508_B009_6420,2025,8,B009,6420,Cash Handling,ATMNetwork,9017.37
+GL_ATMNetwork_202508_B010_6400,2025,8,B010,6400,ATM Maintenance,ATMNetwork,44826.47
+GL_ATMNetwork_202508_B010_6410,2025,8,B010,6410,Interchange Fees,ATMNetwork,44826.47
+GL_ATMNetwork_202508_B010_6420,2025,8,B010,6420,Cash Handling,ATMNetwork,22413.24
+GL_ATMNetwork_202508_B011_6400,2025,8,B011,6400,ATM Maintenance,ATMNetwork,5615.76
+GL_ATMNetwork_202508_B011_6410,2025,8,B011,6410,Interchange Fees,ATMNetwork,5615.76
+GL_ATMNetwork_202508_B011_6420,2025,8,B011,6420,Cash Handling,ATMNetwork,2807.88
+GL_ATMNetwork_202508_B012_6400,2025,8,B012,6400,ATM Maintenance,ATMNetwork,25154.65
+GL_ATMNetwork_202508_B012_6410,2025,8,B012,6410,Interchange Fees,ATMNetwork,25154.65
+GL_ATMNetwork_202508_B012_6420,2025,8,B012,6420,Cash Handling,ATMNetwork,12577.37
+GL_OperationsShared_202508_HQ_6500,2025,8,HQ,6500,Finance & HR,OperationsShared,348917.06
+GL_OperationsShared_202508_HQ_6510,2025,8,HQ,6510,Compliance,OperationsShared,193842.81
+GL_OperationsShared_202508_HQ_6520,2025,8,HQ,6520,IT Shared Services,OperationsShared,232611.38
+GL_OperationsShared_202508_B001_6500,2025,8,B001,6500,Finance & HR,OperationsShared,41749.92
+GL_OperationsShared_202508_B001_6510,2025,8,B001,6510,Compliance,OperationsShared,23194.4
+GL_OperationsShared_202508_B001_6520,2025,8,B001,6520,IT Shared Services,OperationsShared,27833.28
+GL_OperationsShared_202508_B002_6500,2025,8,B002,6500,Finance & HR,OperationsShared,40631.75
+GL_OperationsShared_202508_B002_6510,2025,8,B002,6510,Compliance,OperationsShared,22573.2
+GL_OperationsShared_202508_B002_6520,2025,8,B002,6520,IT Shared Services,OperationsShared,27087.83
+GL_OperationsShared_202508_B003_6500,2025,8,B003,6500,Finance & HR,OperationsShared,14061.89
+GL_OperationsShared_202508_B003_6510,2025,8,B003,6510,Compliance,OperationsShared,7812.16
+GL_OperationsShared_202508_B003_6520,2025,8,B003,6520,IT Shared Services,OperationsShared,9374.59
+GL_OperationsShared_202508_B004_6500,2025,8,B004,6500,Finance & HR,OperationsShared,59.38
+GL_OperationsShared_202508_B004_6510,2025,8,B004,6510,Compliance,OperationsShared,32.99
+GL_OperationsShared_202508_B004_6520,2025,8,B004,6520,IT Shared Services,OperationsShared,39.59
+GL_OperationsShared_202508_B005_6500,2025,8,B005,6500,Finance & HR,OperationsShared,1914.43
+GL_OperationsShared_202508_B005_6510,2025,8,B005,6510,Compliance,OperationsShared,1063.57
+GL_OperationsShared_202508_B005_6520,2025,8,B005,6520,IT Shared Services,OperationsShared,1276.29
+GL_OperationsShared_202508_B006_6500,2025,8,B006,6500,Finance & HR,OperationsShared,7325.29
+GL_OperationsShared_202508_B006_6510,2025,8,B006,6510,Compliance,OperationsShared,4069.6
+GL_OperationsShared_202508_B006_6520,2025,8,B006,6520,IT Shared Services,OperationsShared,4883.52
+GL_OperationsShared_202508_B007_6500,2025,8,B007,6500,Finance & HR,OperationsShared,4801.65
+GL_OperationsShared_202508_B007_6510,2025,8,B007,6510,Compliance,OperationsShared,2667.58
+GL_OperationsShared_202508_B007_6520,2025,8,B007,6520,IT Shared Services,OperationsShared,3201.1
+GL_OperationsShared_202508_B008_6500,2025,8,B008,6500,Finance & HR,OperationsShared,3955.27
+GL_OperationsShared_202508_B008_6510,2025,8,B008,6510,Compliance,OperationsShared,2197.37
+GL_OperationsShared_202508_B008_6520,2025,8,B008,6520,IT Shared Services,OperationsShared,2636.85
+GL_OperationsShared_202508_B009_6500,2025,8,B009,6500,Finance & HR,OperationsShared,72442.96
+GL_OperationsShared_202508_B009_6510,2025,8,B009,6510,Compliance,OperationsShared,40246.09
+GL_OperationsShared_202508_B009_6520,2025,8,B009,6520,IT Shared Services,OperationsShared,48295.31
+GL_OperationsShared_202508_B010_6500,2025,8,B010,6500,Finance & HR,OperationsShared,31576.63
+GL_OperationsShared_202508_B010_6510,2025,8,B010,6510,Compliance,OperationsShared,17542.57
+GL_OperationsShared_202508_B010_6520,2025,8,B010,6520,IT Shared Services,OperationsShared,21051.09
+GL_OperationsShared_202508_B011_6500,2025,8,B011,6500,Finance & HR,OperationsShared,10251.03
+GL_OperationsShared_202508_B011_6510,2025,8,B011,6510,Compliance,OperationsShared,5695.02
+GL_OperationsShared_202508_B011_6520,2025,8,B011,6520,IT Shared Services,OperationsShared,6834.02
+GL_OperationsShared_202508_B012_6500,2025,8,B012,6500,Finance & HR,OperationsShared,3841.17
+GL_OperationsShared_202508_B012_6510,2025,8,B012,6510,Compliance,OperationsShared,2133.98
+GL_OperationsShared_202508_B012_6520,2025,8,B012,6520,IT Shared Services,OperationsShared,2560.8
+GL_ServiceFees_202508_HQ_4300,2025,8,HQ,4300,Deposit Account Service Charges,ServiceFees,46256.72
+GL_ServiceFees_202508_HQ_4305,2025,8,HQ,4305,Overdraft Fees,ServiceFees,19824.31
+GL_ServiceFees_202508_B001_4300,2025,8,B001,4300,Deposit Account Service Charges,ServiceFees,13269.32
+GL_ServiceFees_202508_B001_4305,2025,8,B001,4305,Overdraft Fees,ServiceFees,5686.85
+GL_ServiceFees_202508_B002_4300,2025,8,B002,4300,Deposit Account Service Charges,ServiceFees,58055.39
+GL_ServiceFees_202508_B002_4305,2025,8,B002,4305,Overdraft Fees,ServiceFees,24880.88
+GL_ServiceFees_202508_B003_4300,2025,8,B003,4300,Deposit Account Service Charges,ServiceFees,34148.6
+GL_ServiceFees_202508_B003_4305,2025,8,B003,4305,Overdraft Fees,ServiceFees,14635.11
+GL_ServiceFees_202508_B004_4300,2025,8,B004,4300,Deposit Account Service Charges,ServiceFees,74441.06
+GL_ServiceFees_202508_B004_4305,2025,8,B004,4305,Overdraft Fees,ServiceFees,31903.31
+GL_ServiceFees_202508_B005_4300,2025,8,B005,4300,Deposit Account Service Charges,ServiceFees,21750.89
+GL_ServiceFees_202508_B005_4305,2025,8,B005,4305,Overdraft Fees,ServiceFees,9321.81
+GL_ServiceFees_202508_B006_4300,2025,8,B006,4300,Deposit Account Service Charges,ServiceFees,15086.03
+GL_ServiceFees_202508_B006_4305,2025,8,B006,4305,Overdraft Fees,ServiceFees,6465.44
+GL_ServiceFees_202508_B007_4300,2025,8,B007,4300,Deposit Account Service Charges,ServiceFees,16533.87
+GL_ServiceFees_202508_B007_4305,2025,8,B007,4305,Overdraft Fees,ServiceFees,7085.94
+GL_ServiceFees_202508_B008_4300,2025,8,B008,4300,Deposit Account Service Charges,ServiceFees,86798.24
+GL_ServiceFees_202508_B008_4305,2025,8,B008,4305,Overdraft Fees,ServiceFees,37199.25
+GL_ServiceFees_202508_B009_4300,2025,8,B009,4300,Deposit Account Service Charges,ServiceFees,1497.71
+GL_ServiceFees_202508_B009_4305,2025,8,B009,4305,Overdraft Fees,ServiceFees,641.88
+GL_ServiceFees_202508_B010_4300,2025,8,B010,4300,Deposit Account Service Charges,ServiceFees,31301.01
+GL_ServiceFees_202508_B010_4305,2025,8,B010,4305,Overdraft Fees,ServiceFees,13414.72
+GL_ServiceFees_202508_B011_4300,2025,8,B011,4300,Deposit Account Service Charges,ServiceFees,59562.69
+GL_ServiceFees_202508_B011_4305,2025,8,B011,4305,Overdraft Fees,ServiceFees,25526.87
+GL_ServiceFees_202508_B012_4300,2025,8,B012,4300,Deposit Account Service Charges,ServiceFees,18699.1
+GL_ServiceFees_202508_B012_4305,2025,8,B012,4305,Overdraft Fees,ServiceFees,8013.9
+GL_CardInterchange_202508_HQ_4310,2025,8,HQ,4310,Card Interchange Income,CardInterchange,32368.43
+GL_CardInterchange_202508_B001_4310,2025,8,B001,4310,Card Interchange Income,CardInterchange,14820.75
+GL_CardInterchange_202508_B002_4310,2025,8,B002,4310,Card Interchange Income,CardInterchange,85611.51
+GL_CardInterchange_202508_B003_4310,2025,8,B003,4310,Card Interchange Income,CardInterchange,14004.21
+GL_CardInterchange_202508_B004_4310,2025,8,B004,4310,Card Interchange Income,CardInterchange,2553.54
+GL_CardInterchange_202508_B005_4310,2025,8,B005,4310,Card Interchange Income,CardInterchange,7611.84
+GL_CardInterchange_202508_B006_4310,2025,8,B006,4310,Card Interchange Income,CardInterchange,63598.71
+GL_CardInterchange_202508_B007_4310,2025,8,B007,4310,Card Interchange Income,CardInterchange,61057.22
+GL_CardInterchange_202508_B008_4310,2025,8,B008,4310,Card Interchange Income,CardInterchange,76707.1
+GL_CardInterchange_202508_B009_4310,2025,8,B009,4310,Card Interchange Income,CardInterchange,66435.24
+GL_CardInterchange_202508_B010_4310,2025,8,B010,4310,Card Interchange Income,CardInterchange,71060.8
+GL_CardInterchange_202508_B011_4310,2025,8,B011,4310,Card Interchange Income,CardInterchange,4026.05
+GL_CardInterchange_202508_B012_4310,2025,8,B012,4310,Card Interchange Income,CardInterchange,55945.87
+GL_BrokerageFees_202508_HQ_4320,2025,8,HQ,4320,Brokerage Commissions,BrokerageFees,224.01
+GL_BrokerageFees_202508_HQ_4325,2025,8,HQ,4325,Advisory Fees,BrokerageFees,149.34
+GL_BrokerageFees_202508_B001_4320,2025,8,B001,4320,Brokerage Commissions,BrokerageFees,3853.83
+GL_BrokerageFees_202508_B001_4325,2025,8,B001,4325,Advisory Fees,BrokerageFees,2569.22
+GL_BrokerageFees_202508_B002_4320,2025,8,B002,4320,Brokerage Commissions,BrokerageFees,1274.69
+GL_BrokerageFees_202508_B002_4325,2025,8,B002,4325,Advisory Fees,BrokerageFees,849.8
+GL_BrokerageFees_202508_B003_4320,2025,8,B003,4320,Brokerage Commissions,BrokerageFees,51828.7
+GL_BrokerageFees_202508_B003_4325,2025,8,B003,4325,Advisory Fees,BrokerageFees,34552.47
+GL_BrokerageFees_202508_B004_4320,2025,8,B004,4320,Brokerage Commissions,BrokerageFees,3569.99
+GL_BrokerageFees_202508_B004_4325,2025,8,B004,4325,Advisory Fees,BrokerageFees,2379.99
+GL_BrokerageFees_202508_B005_4320,2025,8,B005,4320,Brokerage Commissions,BrokerageFees,8258.19
+GL_BrokerageFees_202508_B005_4325,2025,8,B005,4325,Advisory Fees,BrokerageFees,5505.46
+GL_BrokerageFees_202508_B006_4320,2025,8,B006,4320,Brokerage Commissions,BrokerageFees,4743.29
+GL_BrokerageFees_202508_B006_4325,2025,8,B006,4325,Advisory Fees,BrokerageFees,3162.19
+GL_BrokerageFees_202508_B007_4320,2025,8,B007,4320,Brokerage Commissions,BrokerageFees,10958.52
+GL_BrokerageFees_202508_B007_4325,2025,8,B007,4325,Advisory Fees,BrokerageFees,7305.68
+GL_BrokerageFees_202508_B008_4320,2025,8,B008,4320,Brokerage Commissions,BrokerageFees,8690.37
+GL_BrokerageFees_202508_B008_4325,2025,8,B008,4325,Advisory Fees,BrokerageFees,5793.58
+GL_BrokerageFees_202508_B009_4320,2025,8,B009,4320,Brokerage Commissions,BrokerageFees,25470.57
+GL_BrokerageFees_202508_B009_4325,2025,8,B009,4325,Advisory Fees,BrokerageFees,16980.38
+GL_BrokerageFees_202508_B010_4320,2025,8,B010,4320,Brokerage Commissions,BrokerageFees,20133.19
+GL_BrokerageFees_202508_B010_4325,2025,8,B010,4325,Advisory Fees,BrokerageFees,13422.13
+GL_BrokerageFees_202508_B011_4320,2025,8,B011,4320,Brokerage Commissions,BrokerageFees,21936.09
+GL_BrokerageFees_202508_B011_4325,2025,8,B011,4325,Advisory Fees,BrokerageFees,14624.06
+GL_BrokerageFees_202508_B012_4320,2025,8,B012,4320,Brokerage Commissions,BrokerageFees,12235.9
+GL_BrokerageFees_202508_B012_4325,2025,8,B012,4325,Advisory Fees,BrokerageFees,8157.28
+GL_InterestIncomeLoans_202508_HQ_4100,2025,8,HQ,4100,Interest Income - Loans,InterestIncomeLoans,319281.88
+GL_InterestIncomeLoans_202508_B001_4100,2025,8,B001,4100,Interest Income - Loans,InterestIncomeLoans,595013.18
+GL_InterestIncomeLoans_202508_B002_4100,2025,8,B002,4100,Interest Income - Loans,InterestIncomeLoans,20236.91
+GL_InterestIncomeLoans_202508_B003_4100,2025,8,B003,4100,Interest Income - Loans,InterestIncomeLoans,358149.55
+GL_InterestIncomeLoans_202508_B004_4100,2025,8,B004,4100,Interest Income - Loans,InterestIncomeLoans,5253.87
+GL_InterestIncomeLoans_202508_B005_4100,2025,8,B005,4100,Interest Income - Loans,InterestIncomeLoans,774554.59
+GL_InterestIncomeLoans_202508_B006_4100,2025,8,B006,4100,Interest Income - Loans,InterestIncomeLoans,24981.07
+GL_InterestIncomeLoans_202508_B007_4100,2025,8,B007,4100,Interest Income - Loans,InterestIncomeLoans,17659.04
+GL_InterestIncomeLoans_202508_B008_4100,2025,8,B008,4100,Interest Income - Loans,InterestIncomeLoans,836513.89
+GL_InterestIncomeLoans_202508_B009_4100,2025,8,B009,4100,Interest Income - Loans,InterestIncomeLoans,158871.78
+GL_InterestIncomeLoans_202508_B010_4100,2025,8,B010,4100,Interest Income - Loans,InterestIncomeLoans,271196.86
+GL_InterestIncomeLoans_202508_B011_4100,2025,8,B011,4100,Interest Income - Loans,InterestIncomeLoans,16533.21
+GL_InterestIncomeLoans_202508_B012_4100,2025,8,B012,4100,Interest Income - Loans,InterestIncomeLoans,212993.86
+GL_InterestIncomeSecurities_202508_HQ_4200,2025,8,HQ,4200,Interest Income - Securities,InterestIncomeSecurities,542531.51
+GL_InterestIncomeSecurities_202508_B001_4200,2025,8,B001,4200,Interest Income - Securities,InterestIncomeSecurities,31353.23
+GL_InterestIncomeSecurities_202508_B002_4200,2025,8,B002,4200,Interest Income - Securities,InterestIncomeSecurities,14500.33
+GL_InterestIncomeSecurities_202508_B003_4200,2025,8,B003,4200,Interest Income - Securities,InterestIncomeSecurities,12513.92
+GL_InterestIncomeSecurities_202508_B004_4200,2025,8,B004,4200,Interest Income - Securities,InterestIncomeSecurities,58661.8
+GL_InterestIncomeSecurities_202508_B005_4200,2025,8,B005,4200,Interest Income - Securities,InterestIncomeSecurities,490.01
+GL_InterestIncomeSecurities_202508_B006_4200,2025,8,B006,4200,Interest Income - Securities,InterestIncomeSecurities,24022.85
+GL_InterestIncomeSecurities_202508_B007_4200,2025,8,B007,4200,Interest Income - Securities,InterestIncomeSecurities,80547.97
+GL_InterestIncomeSecurities_202508_B008_4200,2025,8,B008,4200,Interest Income - Securities,InterestIncomeSecurities,74467.29
+GL_InterestIncomeSecurities_202508_B009_4200,2025,8,B009,4200,Interest Income - Securities,InterestIncomeSecurities,10604.43
+GL_InterestIncomeSecurities_202508_B010_4200,2025,8,B010,4200,Interest Income - Securities,InterestIncomeSecurities,6924.35
+GL_InterestIncomeSecurities_202508_B011_4200,2025,8,B011,4200,Interest Income - Securities,InterestIncomeSecurities,32236.12
+GL_InterestIncomeSecurities_202508_B012_4200,2025,8,B012,4200,Interest Income - Securities,InterestIncomeSecurities,15365.37
+GL_InterestExpenseDeposits_202508_HQ_5100,2025,8,HQ,5100,Interest Expense - Deposits,InterestExpenseDeposits,96834.68
+GL_InterestExpenseDeposits_202508_B001_5100,2025,8,B001,5100,Interest Expense - Deposits,InterestExpenseDeposits,26935.1
+GL_InterestExpenseDeposits_202508_B002_5100,2025,8,B002,5100,Interest Expense - Deposits,InterestExpenseDeposits,190187.15
+GL_InterestExpenseDeposits_202508_B003_5100,2025,8,B003,5100,Interest Expense - Deposits,InterestExpenseDeposits,98819.73
+GL_InterestExpenseDeposits_202508_B004_5100,2025,8,B004,5100,Interest Expense - Deposits,InterestExpenseDeposits,254444.85
+GL_InterestExpenseDeposits_202508_B005_5100,2025,8,B005,5100,Interest Expense - Deposits,InterestExpenseDeposits,217942.08
+GL_InterestExpenseDeposits_202508_B006_5100,2025,8,B006,5100,Interest Expense - Deposits,InterestExpenseDeposits,171259.19
+GL_InterestExpenseDeposits_202508_B007_5100,2025,8,B007,5100,Interest Expense - Deposits,InterestExpenseDeposits,5946.16
+GL_InterestExpenseDeposits_202508_B008_5100,2025,8,B008,5100,Interest Expense - Deposits,InterestExpenseDeposits,399120.17
+GL_InterestExpenseDeposits_202508_B009_5100,2025,8,B009,5100,Interest Expense - Deposits,InterestExpenseDeposits,133059.64
+GL_InterestExpenseDeposits_202508_B010_5100,2025,8,B010,5100,Interest Expense - Deposits,InterestExpenseDeposits,12151.07
+GL_InterestExpenseDeposits_202508_B011_5100,2025,8,B011,5100,Interest Expense - Deposits,InterestExpenseDeposits,45775.68
+GL_InterestExpenseDeposits_202508_B012_5100,2025,8,B012,5100,Interest Expense - Deposits,InterestExpenseDeposits,104362.32
+GL_InterestExpenseBorrowings_202508_HQ_5200,2025,8,HQ,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,23916.06
+GL_InterestExpenseBorrowings_202508_B001_5200,2025,8,B001,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,10221.53
+GL_InterestExpenseBorrowings_202508_B002_5200,2025,8,B002,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,32499.13
+GL_InterestExpenseBorrowings_202508_B003_5200,2025,8,B003,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,49354.31
+GL_InterestExpenseBorrowings_202508_B004_5200,2025,8,B004,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,22633.95
+GL_InterestExpenseBorrowings_202508_B005_5200,2025,8,B005,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,87689.45
+GL_InterestExpenseBorrowings_202508_B006_5200,2025,8,B006,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,44549.53
+GL_InterestExpenseBorrowings_202508_B007_5200,2025,8,B007,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,11300.42
+GL_InterestExpenseBorrowings_202508_B008_5200,2025,8,B008,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,5348.79
+GL_InterestExpenseBorrowings_202508_B009_5200,2025,8,B009,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,27996.66
+GL_InterestExpenseBorrowings_202508_B010_5200,2025,8,B010,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,20309.87
+GL_InterestExpenseBorrowings_202508_B011_5200,2025,8,B011,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,14324.24
+GL_InterestExpenseBorrowings_202508_B012_5200,2025,8,B012,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,61803.3
+GL_ProvisionForCreditLosses_202508_HQ_5300,2025,8,HQ,5300,Provision for Credit Losses,ProvisionForCreditLosses,990.35
+GL_ProvisionForCreditLosses_202508_B001_5300,2025,8,B001,5300,Provision for Credit Losses,ProvisionForCreditLosses,5428.18
+GL_ProvisionForCreditLosses_202508_B002_5300,2025,8,B002,5300,Provision for Credit Losses,ProvisionForCreditLosses,14899.43
+GL_ProvisionForCreditLosses_202508_B003_5300,2025,8,B003,5300,Provision for Credit Losses,ProvisionForCreditLosses,72937.85
+GL_ProvisionForCreditLosses_202508_B004_5300,2025,8,B004,5300,Provision for Credit Losses,ProvisionForCreditLosses,39669.69
+GL_ProvisionForCreditLosses_202508_B005_5300,2025,8,B005,5300,Provision for Credit Losses,ProvisionForCreditLosses,60513.56
+GL_ProvisionForCreditLosses_202508_B006_5300,2025,8,B006,5300,Provision for Credit Losses,ProvisionForCreditLosses,6992.48
+GL_ProvisionForCreditLosses_202508_B007_5300,2025,8,B007,5300,Provision for Credit Losses,ProvisionForCreditLosses,1810.91
+GL_ProvisionForCreditLosses_202508_B008_5300,2025,8,B008,5300,Provision for Credit Losses,ProvisionForCreditLosses,63434.97
+GL_ProvisionForCreditLosses_202508_B009_5300,2025,8,B009,5300,Provision for Credit Losses,ProvisionForCreditLosses,34032.24
+GL_ProvisionForCreditLosses_202508_B010_5300,2025,8,B010,5300,Provision for Credit Losses,ProvisionForCreditLosses,15668.33
+GL_ProvisionForCreditLosses_202508_B011_5300,2025,8,B011,5300,Provision for Credit Losses,ProvisionForCreditLosses,1580.57
+GL_ProvisionForCreditLosses_202508_B012_5300,2025,8,B012,5300,Provision for Credit Losses,ProvisionForCreditLosses,16274.57
+GL_IncomeTaxExpense_202508_HQ_7100,2025,8,HQ,7100,Income Tax Expense,IncomeTaxExpense,407465.53
+GL_IncomeTaxExpense_202508_B001_7100,2025,8,B001,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B002_7100,2025,8,B002,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B003_7100,2025,8,B003,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B004_7100,2025,8,B004,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B005_7100,2025,8,B005,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B006_7100,2025,8,B006,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B007_7100,2025,8,B007,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B008_7100,2025,8,B008,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B009_7100,2025,8,B009,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B010_7100,2025,8,B010,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B011_7100,2025,8,B011,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202508_B012_7100,2025,8,B012,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_CallCenterOpex_202509_HQ_6100,2025,9,HQ,6100,Call Center Salaries,CallCenterOpex,24342.95
+GL_CallCenterOpex_202509_HQ_6110,2025,9,HQ,6110,Telecom Expense,CallCenterOpex,11064.98
+GL_CallCenterOpex_202509_HQ_6120,2025,9,HQ,6120,Call Center Rent,CallCenterOpex,8851.98
+GL_CallCenterOpex_202509_B001_6100,2025,9,B001,6100,Call Center Salaries,CallCenterOpex,83780.25
+GL_CallCenterOpex_202509_B001_6110,2025,9,B001,6110,Telecom Expense,CallCenterOpex,38081.93
+GL_CallCenterOpex_202509_B001_6120,2025,9,B001,6120,Call Center Rent,CallCenterOpex,30465.54
+GL_CallCenterOpex_202509_B002_6100,2025,9,B002,6100,Call Center Salaries,CallCenterOpex,4676.19
+GL_CallCenterOpex_202509_B002_6110,2025,9,B002,6110,Telecom Expense,CallCenterOpex,2125.54
+GL_CallCenterOpex_202509_B002_6120,2025,9,B002,6120,Call Center Rent,CallCenterOpex,1700.43
+GL_CallCenterOpex_202509_B003_6100,2025,9,B003,6100,Call Center Salaries,CallCenterOpex,60171.82
+GL_CallCenterOpex_202509_B003_6110,2025,9,B003,6110,Telecom Expense,CallCenterOpex,27350.83
+GL_CallCenterOpex_202509_B003_6120,2025,9,B003,6120,Call Center Rent,CallCenterOpex,21880.66
+GL_CallCenterOpex_202509_B004_6100,2025,9,B004,6100,Call Center Salaries,CallCenterOpex,27427.62
+GL_CallCenterOpex_202509_B004_6110,2025,9,B004,6110,Telecom Expense,CallCenterOpex,12467.1
+GL_CallCenterOpex_202509_B004_6120,2025,9,B004,6120,Call Center Rent,CallCenterOpex,9973.68
+GL_CallCenterOpex_202509_B005_6100,2025,9,B005,6100,Call Center Salaries,CallCenterOpex,189699.22
+GL_CallCenterOpex_202509_B005_6110,2025,9,B005,6110,Telecom Expense,CallCenterOpex,86226.92
+GL_CallCenterOpex_202509_B005_6120,2025,9,B005,6120,Call Center Rent,CallCenterOpex,68981.54
+GL_CallCenterOpex_202509_B006_6100,2025,9,B006,6100,Call Center Salaries,CallCenterOpex,35372.19
+GL_CallCenterOpex_202509_B006_6110,2025,9,B006,6110,Telecom Expense,CallCenterOpex,16078.27
+GL_CallCenterOpex_202509_B006_6120,2025,9,B006,6120,Call Center Rent,CallCenterOpex,12862.62
+GL_CallCenterOpex_202509_B007_6100,2025,9,B007,6100,Call Center Salaries,CallCenterOpex,55479.99
+GL_CallCenterOpex_202509_B007_6110,2025,9,B007,6110,Telecom Expense,CallCenterOpex,25218.18
+GL_CallCenterOpex_202509_B007_6120,2025,9,B007,6120,Call Center Rent,CallCenterOpex,20174.54
+GL_CallCenterOpex_202509_B008_6100,2025,9,B008,6100,Call Center Salaries,CallCenterOpex,106122.73
+GL_CallCenterOpex_202509_B008_6110,2025,9,B008,6110,Telecom Expense,CallCenterOpex,48237.6
+GL_CallCenterOpex_202509_B008_6120,2025,9,B008,6120,Call Center Rent,CallCenterOpex,38590.08
+GL_CallCenterOpex_202509_B009_6100,2025,9,B009,6100,Call Center Salaries,CallCenterOpex,11617.28
+GL_CallCenterOpex_202509_B009_6110,2025,9,B009,6110,Telecom Expense,CallCenterOpex,5280.58
+GL_CallCenterOpex_202509_B009_6120,2025,9,B009,6120,Call Center Rent,CallCenterOpex,4224.47
+GL_CallCenterOpex_202509_B010_6100,2025,9,B010,6100,Call Center Salaries,CallCenterOpex,38370.07
+GL_CallCenterOpex_202509_B010_6110,2025,9,B010,6110,Telecom Expense,CallCenterOpex,17440.94
+GL_CallCenterOpex_202509_B010_6120,2025,9,B010,6120,Call Center Rent,CallCenterOpex,13952.75
+GL_CallCenterOpex_202509_B011_6100,2025,9,B011,6100,Call Center Salaries,CallCenterOpex,62423.31
+GL_CallCenterOpex_202509_B011_6110,2025,9,B011,6110,Telecom Expense,CallCenterOpex,28374.23
+GL_CallCenterOpex_202509_B011_6120,2025,9,B011,6120,Call Center Rent,CallCenterOpex,22699.39
+GL_CallCenterOpex_202509_B012_6100,2025,9,B012,6100,Call Center Salaries,CallCenterOpex,45190.05
+GL_CallCenterOpex_202509_B012_6110,2025,9,B012,6110,Telecom Expense,CallCenterOpex,20540.93
+GL_CallCenterOpex_202509_B012_6120,2025,9,B012,6120,Call Center Rent,CallCenterOpex,16432.75
+GL_BranchOpex_202509_HQ_6200,2025,9,HQ,6200,Branch Salaries,BranchOpex,78954.33
+GL_BranchOpex_202509_HQ_6210,2025,9,HQ,6210,Branch Rent,BranchOpex,28710.67
+GL_BranchOpex_202509_HQ_6220,2025,9,HQ,6220,Branch Utilities,BranchOpex,21533.0
+GL_BranchOpex_202509_HQ_6230,2025,9,HQ,6230,Branch Supplies,BranchOpex,14355.33
+GL_BranchOpex_202509_B001_6200,2025,9,B001,6200,Branch Salaries,BranchOpex,221848.04
+GL_BranchOpex_202509_B001_6210,2025,9,B001,6210,Branch Rent,BranchOpex,80672.01
+GL_BranchOpex_202509_B001_6220,2025,9,B001,6220,Branch Utilities,BranchOpex,60504.01
+GL_BranchOpex_202509_B001_6230,2025,9,B001,6230,Branch Supplies,BranchOpex,40336.01
+GL_BranchOpex_202509_B002_6200,2025,9,B002,6200,Branch Salaries,BranchOpex,52852.33
+GL_BranchOpex_202509_B002_6210,2025,9,B002,6210,Branch Rent,BranchOpex,19219.03
+GL_BranchOpex_202509_B002_6220,2025,9,B002,6220,Branch Utilities,BranchOpex,14414.27
+GL_BranchOpex_202509_B002_6230,2025,9,B002,6230,Branch Supplies,BranchOpex,9609.52
+GL_BranchOpex_202509_B003_6200,2025,9,B003,6200,Branch Salaries,BranchOpex,227952.34
+GL_BranchOpex_202509_B003_6210,2025,9,B003,6210,Branch Rent,BranchOpex,82891.76
+GL_BranchOpex_202509_B003_6220,2025,9,B003,6220,Branch Utilities,BranchOpex,62168.82
+GL_BranchOpex_202509_B003_6230,2025,9,B003,6230,Branch Supplies,BranchOpex,41445.88
+GL_BranchOpex_202509_B004_6200,2025,9,B004,6200,Branch Salaries,BranchOpex,84128.36
+GL_BranchOpex_202509_B004_6210,2025,9,B004,6210,Branch Rent,BranchOpex,30592.13
+GL_BranchOpex_202509_B004_6220,2025,9,B004,6220,Branch Utilities,BranchOpex,22944.1
+GL_BranchOpex_202509_B004_6230,2025,9,B004,6230,Branch Supplies,BranchOpex,15296.06
+GL_BranchOpex_202509_B005_6200,2025,9,B005,6200,Branch Salaries,BranchOpex,151624.76
+GL_BranchOpex_202509_B005_6210,2025,9,B005,6210,Branch Rent,BranchOpex,55136.27
+GL_BranchOpex_202509_B005_6220,2025,9,B005,6220,Branch Utilities,BranchOpex,41352.21
+GL_BranchOpex_202509_B005_6230,2025,9,B005,6230,Branch Supplies,BranchOpex,27568.14
+GL_BranchOpex_202509_B006_6200,2025,9,B006,6200,Branch Salaries,BranchOpex,88531.3
+GL_BranchOpex_202509_B006_6210,2025,9,B006,6210,Branch Rent,BranchOpex,32193.2
+GL_BranchOpex_202509_B006_6220,2025,9,B006,6220,Branch Utilities,BranchOpex,24144.9
+GL_BranchOpex_202509_B006_6230,2025,9,B006,6230,Branch Supplies,BranchOpex,16096.6
+GL_BranchOpex_202509_B007_6200,2025,9,B007,6200,Branch Salaries,BranchOpex,23656.22
+GL_BranchOpex_202509_B007_6210,2025,9,B007,6210,Branch Rent,BranchOpex,8602.26
+GL_BranchOpex_202509_B007_6220,2025,9,B007,6220,Branch Utilities,BranchOpex,6451.7
+GL_BranchOpex_202509_B007_6230,2025,9,B007,6230,Branch Supplies,BranchOpex,4301.13
+GL_BranchOpex_202509_B008_6200,2025,9,B008,6200,Branch Salaries,BranchOpex,29562.61
+GL_BranchOpex_202509_B008_6210,2025,9,B008,6210,Branch Rent,BranchOpex,10750.04
+GL_BranchOpex_202509_B008_6220,2025,9,B008,6220,Branch Utilities,BranchOpex,8062.53
+GL_BranchOpex_202509_B008_6230,2025,9,B008,6230,Branch Supplies,BranchOpex,5375.02
+GL_BranchOpex_202509_B009_6200,2025,9,B009,6200,Branch Salaries,BranchOpex,76886.46
+GL_BranchOpex_202509_B009_6210,2025,9,B009,6210,Branch Rent,BranchOpex,27958.71
+GL_BranchOpex_202509_B009_6220,2025,9,B009,6220,Branch Utilities,BranchOpex,20969.03
+GL_BranchOpex_202509_B009_6230,2025,9,B009,6230,Branch Supplies,BranchOpex,13979.36
+GL_BranchOpex_202509_B010_6200,2025,9,B010,6200,Branch Salaries,BranchOpex,32543.1
+GL_BranchOpex_202509_B010_6210,2025,9,B010,6210,Branch Rent,BranchOpex,11833.85
+GL_BranchOpex_202509_B010_6220,2025,9,B010,6220,Branch Utilities,BranchOpex,8875.39
+GL_BranchOpex_202509_B010_6230,2025,9,B010,6230,Branch Supplies,BranchOpex,5916.93
+GL_BranchOpex_202509_B011_6200,2025,9,B011,6200,Branch Salaries,BranchOpex,117012.5
+GL_BranchOpex_202509_B011_6210,2025,9,B011,6210,Branch Rent,BranchOpex,42550.0
+GL_BranchOpex_202509_B011_6220,2025,9,B011,6220,Branch Utilities,BranchOpex,31912.5
+GL_BranchOpex_202509_B011_6230,2025,9,B011,6230,Branch Supplies,BranchOpex,21275.0
+GL_BranchOpex_202509_B012_6200,2025,9,B012,6200,Branch Salaries,BranchOpex,41277.37
+GL_BranchOpex_202509_B012_6210,2025,9,B012,6210,Branch Rent,BranchOpex,15009.95
+GL_BranchOpex_202509_B012_6220,2025,9,B012,6220,Branch Utilities,BranchOpex,11257.46
+GL_BranchOpex_202509_B012_6230,2025,9,B012,6230,Branch Supplies,BranchOpex,7504.99
+GL_DigitalPlatform_202509_HQ_6300,2025,9,HQ,6300,Cloud Hosting,DigitalPlatform,271895.26
+GL_DigitalPlatform_202509_HQ_6310,2025,9,HQ,6310,Software Licenses,DigitalPlatform,163137.16
+GL_DigitalPlatform_202509_HQ_6320,2025,9,HQ,6320,DevOps & Monitoring,DigitalPlatform,108758.1
+GL_DigitalPlatform_202509_B001_6300,2025,9,B001,6300,Cloud Hosting,DigitalPlatform,14377.99
+GL_DigitalPlatform_202509_B001_6310,2025,9,B001,6310,Software Licenses,DigitalPlatform,8626.8
+GL_DigitalPlatform_202509_B001_6320,2025,9,B001,6320,DevOps & Monitoring,DigitalPlatform,5751.2
+GL_DigitalPlatform_202509_B002_6300,2025,9,B002,6300,Cloud Hosting,DigitalPlatform,21870.32
+GL_DigitalPlatform_202509_B002_6310,2025,9,B002,6310,Software Licenses,DigitalPlatform,13122.19
+GL_DigitalPlatform_202509_B002_6320,2025,9,B002,6320,DevOps & Monitoring,DigitalPlatform,8748.13
+GL_DigitalPlatform_202509_B003_6300,2025,9,B003,6300,Cloud Hosting,DigitalPlatform,15642.86
+GL_DigitalPlatform_202509_B003_6310,2025,9,B003,6310,Software Licenses,DigitalPlatform,9385.72
+GL_DigitalPlatform_202509_B003_6320,2025,9,B003,6320,DevOps & Monitoring,DigitalPlatform,6257.15
+GL_DigitalPlatform_202509_B004_6300,2025,9,B004,6300,Cloud Hosting,DigitalPlatform,17536.97
+GL_DigitalPlatform_202509_B004_6310,2025,9,B004,6310,Software Licenses,DigitalPlatform,10522.18
+GL_DigitalPlatform_202509_B004_6320,2025,9,B004,6320,DevOps & Monitoring,DigitalPlatform,7014.79
+GL_DigitalPlatform_202509_B005_6300,2025,9,B005,6300,Cloud Hosting,DigitalPlatform,10223.09
+GL_DigitalPlatform_202509_B005_6310,2025,9,B005,6310,Software Licenses,DigitalPlatform,6133.85
+GL_DigitalPlatform_202509_B005_6320,2025,9,B005,6320,DevOps & Monitoring,DigitalPlatform,4089.23
+GL_DigitalPlatform_202509_B006_6300,2025,9,B006,6300,Cloud Hosting,DigitalPlatform,25449.11
+GL_DigitalPlatform_202509_B006_6310,2025,9,B006,6310,Software Licenses,DigitalPlatform,15269.46
+GL_DigitalPlatform_202509_B006_6320,2025,9,B006,6320,DevOps & Monitoring,DigitalPlatform,10179.64
+GL_DigitalPlatform_202509_B007_6300,2025,9,B007,6300,Cloud Hosting,DigitalPlatform,14411.1
+GL_DigitalPlatform_202509_B007_6310,2025,9,B007,6310,Software Licenses,DigitalPlatform,8646.66
+GL_DigitalPlatform_202509_B007_6320,2025,9,B007,6320,DevOps & Monitoring,DigitalPlatform,5764.44
+GL_DigitalPlatform_202509_B008_6300,2025,9,B008,6300,Cloud Hosting,DigitalPlatform,3875.03
+GL_DigitalPlatform_202509_B008_6310,2025,9,B008,6310,Software Licenses,DigitalPlatform,2325.02
+GL_DigitalPlatform_202509_B008_6320,2025,9,B008,6320,DevOps & Monitoring,DigitalPlatform,1550.01
+GL_DigitalPlatform_202509_B009_6300,2025,9,B009,6300,Cloud Hosting,DigitalPlatform,19306.11
+GL_DigitalPlatform_202509_B009_6310,2025,9,B009,6310,Software Licenses,DigitalPlatform,11583.66
+GL_DigitalPlatform_202509_B009_6320,2025,9,B009,6320,DevOps & Monitoring,DigitalPlatform,7722.44
+GL_DigitalPlatform_202509_B010_6300,2025,9,B010,6300,Cloud Hosting,DigitalPlatform,8900.5
+GL_DigitalPlatform_202509_B010_6310,2025,9,B010,6310,Software Licenses,DigitalPlatform,5340.3
+GL_DigitalPlatform_202509_B010_6320,2025,9,B010,6320,DevOps & Monitoring,DigitalPlatform,3560.2
+GL_DigitalPlatform_202509_B011_6300,2025,9,B011,6300,Cloud Hosting,DigitalPlatform,9781.35
+GL_DigitalPlatform_202509_B011_6310,2025,9,B011,6310,Software Licenses,DigitalPlatform,5868.81
+GL_DigitalPlatform_202509_B011_6320,2025,9,B011,6320,DevOps & Monitoring,DigitalPlatform,3912.54
+GL_DigitalPlatform_202509_B012_6300,2025,9,B012,6300,Cloud Hosting,DigitalPlatform,19889.09
+GL_DigitalPlatform_202509_B012_6310,2025,9,B012,6310,Software Licenses,DigitalPlatform,11933.45
+GL_DigitalPlatform_202509_B012_6320,2025,9,B012,6320,DevOps & Monitoring,DigitalPlatform,7955.62
+GL_ATMNetwork_202509_HQ_6400,2025,9,HQ,6400,ATM Maintenance,ATMNetwork,17974.61
+GL_ATMNetwork_202509_HQ_6410,2025,9,HQ,6410,Interchange Fees,ATMNetwork,17974.61
+GL_ATMNetwork_202509_HQ_6420,2025,9,HQ,6420,Cash Handling,ATMNetwork,8987.3
+GL_ATMNetwork_202509_B001_6400,2025,9,B001,6400,ATM Maintenance,ATMNetwork,9269.16
+GL_ATMNetwork_202509_B001_6410,2025,9,B001,6410,Interchange Fees,ATMNetwork,9269.16
+GL_ATMNetwork_202509_B001_6420,2025,9,B001,6420,Cash Handling,ATMNetwork,4634.58
+GL_ATMNetwork_202509_B002_6400,2025,9,B002,6400,ATM Maintenance,ATMNetwork,22298.71
+GL_ATMNetwork_202509_B002_6410,2025,9,B002,6410,Interchange Fees,ATMNetwork,22298.71
+GL_ATMNetwork_202509_B002_6420,2025,9,B002,6420,Cash Handling,ATMNetwork,11149.36
+GL_ATMNetwork_202509_B003_6400,2025,9,B003,6400,ATM Maintenance,ATMNetwork,6290.83
+GL_ATMNetwork_202509_B003_6410,2025,9,B003,6410,Interchange Fees,ATMNetwork,6290.83
+GL_ATMNetwork_202509_B003_6420,2025,9,B003,6420,Cash Handling,ATMNetwork,3145.42
+GL_ATMNetwork_202509_B004_6400,2025,9,B004,6400,ATM Maintenance,ATMNetwork,20400.74
+GL_ATMNetwork_202509_B004_6410,2025,9,B004,6410,Interchange Fees,ATMNetwork,20400.74
+GL_ATMNetwork_202509_B004_6420,2025,9,B004,6420,Cash Handling,ATMNetwork,10200.37
+GL_ATMNetwork_202509_B005_6400,2025,9,B005,6400,ATM Maintenance,ATMNetwork,7612.63
+GL_ATMNetwork_202509_B005_6410,2025,9,B005,6410,Interchange Fees,ATMNetwork,7612.63
+GL_ATMNetwork_202509_B005_6420,2025,9,B005,6420,Cash Handling,ATMNetwork,3806.32
+GL_ATMNetwork_202509_B006_6400,2025,9,B006,6400,ATM Maintenance,ATMNetwork,15128.56
+GL_ATMNetwork_202509_B006_6410,2025,9,B006,6410,Interchange Fees,ATMNetwork,15128.56
+GL_ATMNetwork_202509_B006_6420,2025,9,B006,6420,Cash Handling,ATMNetwork,7564.28
+GL_ATMNetwork_202509_B007_6400,2025,9,B007,6400,ATM Maintenance,ATMNetwork,3367.65
+GL_ATMNetwork_202509_B007_6410,2025,9,B007,6410,Interchange Fees,ATMNetwork,3367.65
+GL_ATMNetwork_202509_B007_6420,2025,9,B007,6420,Cash Handling,ATMNetwork,1683.83
+GL_ATMNetwork_202509_B008_6400,2025,9,B008,6400,ATM Maintenance,ATMNetwork,611.35
+GL_ATMNetwork_202509_B008_6410,2025,9,B008,6410,Interchange Fees,ATMNetwork,611.35
+GL_ATMNetwork_202509_B008_6420,2025,9,B008,6420,Cash Handling,ATMNetwork,305.68
+GL_ATMNetwork_202509_B009_6400,2025,9,B009,6400,ATM Maintenance,ATMNetwork,18041.35
+GL_ATMNetwork_202509_B009_6410,2025,9,B009,6410,Interchange Fees,ATMNetwork,18041.35
+GL_ATMNetwork_202509_B009_6420,2025,9,B009,6420,Cash Handling,ATMNetwork,9020.67
+GL_ATMNetwork_202509_B010_6400,2025,9,B010,6400,ATM Maintenance,ATMNetwork,44842.9
+GL_ATMNetwork_202509_B010_6410,2025,9,B010,6410,Interchange Fees,ATMNetwork,44842.9
+GL_ATMNetwork_202509_B010_6420,2025,9,B010,6420,Cash Handling,ATMNetwork,22421.45
+GL_ATMNetwork_202509_B011_6400,2025,9,B011,6400,ATM Maintenance,ATMNetwork,5617.82
+GL_ATMNetwork_202509_B011_6410,2025,9,B011,6410,Interchange Fees,ATMNetwork,5617.82
+GL_ATMNetwork_202509_B011_6420,2025,9,B011,6420,Cash Handling,ATMNetwork,2808.91
+GL_ATMNetwork_202509_B012_6400,2025,9,B012,6400,ATM Maintenance,ATMNetwork,25163.87
+GL_ATMNetwork_202509_B012_6410,2025,9,B012,6410,Interchange Fees,ATMNetwork,25163.87
+GL_ATMNetwork_202509_B012_6420,2025,9,B012,6420,Cash Handling,ATMNetwork,12581.97
+GL_OperationsShared_202509_HQ_6500,2025,9,HQ,6500,Finance & HR,OperationsShared,316939.79
+GL_OperationsShared_202509_HQ_6510,2025,9,HQ,6510,Compliance,OperationsShared,176077.66
+GL_OperationsShared_202509_HQ_6520,2025,9,HQ,6520,IT Shared Services,OperationsShared,211293.19
+GL_OperationsShared_202509_B001_6500,2025,9,B001,6500,Finance & HR,OperationsShared,37923.66
+GL_OperationsShared_202509_B001_6510,2025,9,B001,6510,Compliance,OperationsShared,21068.7
+GL_OperationsShared_202509_B001_6520,2025,9,B001,6520,IT Shared Services,OperationsShared,25282.44
+GL_OperationsShared_202509_B002_6500,2025,9,B002,6500,Finance & HR,OperationsShared,36907.97
+GL_OperationsShared_202509_B002_6510,2025,9,B002,6510,Compliance,OperationsShared,20504.43
+GL_OperationsShared_202509_B002_6520,2025,9,B002,6520,IT Shared Services,OperationsShared,24605.31
+GL_OperationsShared_202509_B003_6500,2025,9,B003,6500,Finance & HR,OperationsShared,12773.16
+GL_OperationsShared_202509_B003_6510,2025,9,B003,6510,Compliance,OperationsShared,7096.2
+GL_OperationsShared_202509_B003_6520,2025,9,B003,6520,IT Shared Services,OperationsShared,8515.44
+GL_OperationsShared_202509_B004_6500,2025,9,B004,6500,Finance & HR,OperationsShared,53.94
+GL_OperationsShared_202509_B004_6510,2025,9,B004,6510,Compliance,OperationsShared,29.97
+GL_OperationsShared_202509_B004_6520,2025,9,B004,6520,IT Shared Services,OperationsShared,35.96
+GL_OperationsShared_202509_B005_6500,2025,9,B005,6500,Finance & HR,OperationsShared,1738.98
+GL_OperationsShared_202509_B005_6510,2025,9,B005,6510,Compliance,OperationsShared,966.1
+GL_OperationsShared_202509_B005_6520,2025,9,B005,6520,IT Shared Services,OperationsShared,1159.32
+GL_OperationsShared_202509_B006_6500,2025,9,B006,6500,Finance & HR,OperationsShared,6653.95
+GL_OperationsShared_202509_B006_6510,2025,9,B006,6510,Compliance,OperationsShared,3696.64
+GL_OperationsShared_202509_B006_6520,2025,9,B006,6520,IT Shared Services,OperationsShared,4435.96
+GL_OperationsShared_202509_B007_6500,2025,9,B007,6500,Finance & HR,OperationsShared,4361.59
+GL_OperationsShared_202509_B007_6510,2025,9,B007,6510,Compliance,OperationsShared,2423.11
+GL_OperationsShared_202509_B007_6520,2025,9,B007,6520,IT Shared Services,OperationsShared,2907.73
+GL_OperationsShared_202509_B008_6500,2025,9,B008,6500,Finance & HR,OperationsShared,3592.78
+GL_OperationsShared_202509_B008_6510,2025,9,B008,6510,Compliance,OperationsShared,1995.99
+GL_OperationsShared_202509_B008_6520,2025,9,B008,6520,IT Shared Services,OperationsShared,2395.19
+GL_OperationsShared_202509_B009_6500,2025,9,B009,6500,Finance & HR,OperationsShared,65803.77
+GL_OperationsShared_202509_B009_6510,2025,9,B009,6510,Compliance,OperationsShared,36557.65
+GL_OperationsShared_202509_B009_6520,2025,9,B009,6520,IT Shared Services,OperationsShared,43869.18
+GL_OperationsShared_202509_B010_6500,2025,9,B010,6500,Finance & HR,OperationsShared,28682.72
+GL_OperationsShared_202509_B010_6510,2025,9,B010,6510,Compliance,OperationsShared,15934.85
+GL_OperationsShared_202509_B010_6520,2025,9,B010,6520,IT Shared Services,OperationsShared,19121.81
+GL_OperationsShared_202509_B011_6500,2025,9,B011,6500,Finance & HR,OperationsShared,9311.56
+GL_OperationsShared_202509_B011_6510,2025,9,B011,6510,Compliance,OperationsShared,5173.09
+GL_OperationsShared_202509_B011_6520,2025,9,B011,6520,IT Shared Services,OperationsShared,6207.7
+GL_OperationsShared_202509_B012_6500,2025,9,B012,6500,Finance & HR,OperationsShared,3489.14
+GL_OperationsShared_202509_B012_6510,2025,9,B012,6510,Compliance,OperationsShared,1938.41
+GL_OperationsShared_202509_B012_6520,2025,9,B012,6520,IT Shared Services,OperationsShared,2326.04
+GL_ServiceFees_202509_HQ_4300,2025,9,HQ,4300,Deposit Account Service Charges,ServiceFees,42523.31
+GL_ServiceFees_202509_HQ_4305,2025,9,HQ,4305,Overdraft Fees,ServiceFees,18224.28
+GL_ServiceFees_202509_B001_4300,2025,9,B001,4300,Deposit Account Service Charges,ServiceFees,12198.35
+GL_ServiceFees_202509_B001_4305,2025,9,B001,4305,Overdraft Fees,ServiceFees,5227.86
+GL_ServiceFees_202509_B002_4300,2025,9,B002,4300,Deposit Account Service Charges,ServiceFees,53369.71
+GL_ServiceFees_202509_B002_4305,2025,9,B002,4305,Overdraft Fees,ServiceFees,22872.73
+GL_ServiceFees_202509_B003_4300,2025,9,B003,4300,Deposit Account Service Charges,ServiceFees,31392.44
+GL_ServiceFees_202509_B003_4305,2025,9,B003,4305,Overdraft Fees,ServiceFees,13453.9
+GL_ServiceFees_202509_B004_4300,2025,9,B004,4300,Deposit Account Service Charges,ServiceFees,68432.88
+GL_ServiceFees_202509_B004_4305,2025,9,B004,4305,Overdraft Fees,ServiceFees,29328.38
+GL_ServiceFees_202509_B005_4300,2025,9,B005,4300,Deposit Account Service Charges,ServiceFees,19995.36
+GL_ServiceFees_202509_B005_4305,2025,9,B005,4305,Overdraft Fees,ServiceFees,8569.44
+GL_ServiceFees_202509_B006_4300,2025,9,B006,4300,Deposit Account Service Charges,ServiceFees,13868.43
+GL_ServiceFees_202509_B006_4305,2025,9,B006,4305,Overdraft Fees,ServiceFees,5943.61
+GL_ServiceFees_202509_B007_4300,2025,9,B007,4300,Deposit Account Service Charges,ServiceFees,15199.41
+GL_ServiceFees_202509_B007_4305,2025,9,B007,4305,Overdraft Fees,ServiceFees,6514.03
+GL_ServiceFees_202509_B008_4300,2025,9,B008,4300,Deposit Account Service Charges,ServiceFees,79792.7
+GL_ServiceFees_202509_B008_4305,2025,9,B008,4305,Overdraft Fees,ServiceFees,34196.87
+GL_ServiceFees_202509_B009_4300,2025,9,B009,4300,Deposit Account Service Charges,ServiceFees,1376.83
+GL_ServiceFees_202509_B009_4305,2025,9,B009,4305,Overdraft Fees,ServiceFees,590.07
+GL_ServiceFees_202509_B010_4300,2025,9,B010,4300,Deposit Account Service Charges,ServiceFees,28774.69
+GL_ServiceFees_202509_B010_4305,2025,9,B010,4305,Overdraft Fees,ServiceFees,12332.01
+GL_ServiceFees_202509_B011_4300,2025,9,B011,4300,Deposit Account Service Charges,ServiceFees,54755.35
+GL_ServiceFees_202509_B011_4305,2025,9,B011,4305,Overdraft Fees,ServiceFees,23466.58
+GL_ServiceFees_202509_B012_4300,2025,9,B012,4300,Deposit Account Service Charges,ServiceFees,17189.88
+GL_ServiceFees_202509_B012_4305,2025,9,B012,4305,Overdraft Fees,ServiceFees,7367.11
+GL_CardInterchange_202509_HQ_4310,2025,9,HQ,4310,Card Interchange Income,CardInterchange,29183.48
+GL_CardInterchange_202509_B001_4310,2025,9,B001,4310,Card Interchange Income,CardInterchange,13362.44
+GL_CardInterchange_202509_B002_4310,2025,9,B002,4310,Card Interchange Income,CardInterchange,77187.62
+GL_CardInterchange_202509_B003_4310,2025,9,B003,4310,Card Interchange Income,CardInterchange,12626.24
+GL_CardInterchange_202509_B004_4310,2025,9,B004,4310,Card Interchange Income,CardInterchange,2302.28
+GL_CardInterchange_202509_B005_4310,2025,9,B005,4310,Card Interchange Income,CardInterchange,6862.86
+GL_CardInterchange_202509_B006_4310,2025,9,B006,4310,Card Interchange Income,CardInterchange,57340.8
+GL_CardInterchange_202509_B007_4310,2025,9,B007,4310,Card Interchange Income,CardInterchange,55049.39
+GL_CardInterchange_202509_B008_4310,2025,9,B008,4310,Card Interchange Income,CardInterchange,69159.37
+GL_CardInterchange_202509_B009_4310,2025,9,B009,4310,Card Interchange Income,CardInterchange,59898.23
+GL_CardInterchange_202509_B010_4310,2025,9,B010,4310,Card Interchange Income,CardInterchange,64068.65
+GL_CardInterchange_202509_B011_4310,2025,9,B011,4310,Card Interchange Income,CardInterchange,3629.9
+GL_CardInterchange_202509_B012_4310,2025,9,B012,4310,Card Interchange Income,CardInterchange,50440.99
+GL_BrokerageFees_202509_HQ_4320,2025,9,HQ,4320,Brokerage Commissions,BrokerageFees,222.44
+GL_BrokerageFees_202509_HQ_4325,2025,9,HQ,4325,Advisory Fees,BrokerageFees,148.29
+GL_BrokerageFees_202509_B001_4320,2025,9,B001,4320,Brokerage Commissions,BrokerageFees,3826.85
+GL_BrokerageFees_202509_B001_4325,2025,9,B001,4325,Advisory Fees,BrokerageFees,2551.23
+GL_BrokerageFees_202509_B002_4320,2025,9,B002,4320,Brokerage Commissions,BrokerageFees,1265.77
+GL_BrokerageFees_202509_B002_4325,2025,9,B002,4325,Advisory Fees,BrokerageFees,843.85
+GL_BrokerageFees_202509_B003_4320,2025,9,B003,4320,Brokerage Commissions,BrokerageFees,51465.85
+GL_BrokerageFees_202509_B003_4325,2025,9,B003,4325,Advisory Fees,BrokerageFees,34310.57
+GL_BrokerageFees_202509_B004_4320,2025,9,B004,4320,Brokerage Commissions,BrokerageFees,3545.0
+GL_BrokerageFees_202509_B004_4325,2025,9,B004,4325,Advisory Fees,BrokerageFees,2363.33
+GL_BrokerageFees_202509_B005_4320,2025,9,B005,4320,Brokerage Commissions,BrokerageFees,8200.37
+GL_BrokerageFees_202509_B005_4325,2025,9,B005,4325,Advisory Fees,BrokerageFees,5466.91
+GL_BrokerageFees_202509_B006_4320,2025,9,B006,4320,Brokerage Commissions,BrokerageFees,4710.08
+GL_BrokerageFees_202509_B006_4325,2025,9,B006,4325,Advisory Fees,BrokerageFees,3140.06
+GL_BrokerageFees_202509_B007_4320,2025,9,B007,4320,Brokerage Commissions,BrokerageFees,10881.8
+GL_BrokerageFees_202509_B007_4325,2025,9,B007,4325,Advisory Fees,BrokerageFees,7254.54
+GL_BrokerageFees_202509_B008_4320,2025,9,B008,4320,Brokerage Commissions,BrokerageFees,8629.53
+GL_BrokerageFees_202509_B008_4325,2025,9,B008,4325,Advisory Fees,BrokerageFees,5753.02
+GL_BrokerageFees_202509_B009_4320,2025,9,B009,4320,Brokerage Commissions,BrokerageFees,25292.25
+GL_BrokerageFees_202509_B009_4325,2025,9,B009,4325,Advisory Fees,BrokerageFees,16861.5
+GL_BrokerageFees_202509_B010_4320,2025,9,B010,4320,Brokerage Commissions,BrokerageFees,19992.24
+GL_BrokerageFees_202509_B010_4325,2025,9,B010,4325,Advisory Fees,BrokerageFees,13328.16
+GL_BrokerageFees_202509_B011_4320,2025,9,B011,4320,Brokerage Commissions,BrokerageFees,21782.52
+GL_BrokerageFees_202509_B011_4325,2025,9,B011,4325,Advisory Fees,BrokerageFees,14521.68
+GL_BrokerageFees_202509_B012_4320,2025,9,B012,4320,Brokerage Commissions,BrokerageFees,12150.23
+GL_BrokerageFees_202509_B012_4325,2025,9,B012,4325,Advisory Fees,BrokerageFees,8100.16
+GL_InterestIncomeLoans_202509_HQ_4100,2025,9,HQ,4100,Interest Income - Loans,InterestIncomeLoans,334448.47
+GL_InterestIncomeLoans_202509_B001_4100,2025,9,B001,4100,Interest Income - Loans,InterestIncomeLoans,623277.62
+GL_InterestIncomeLoans_202509_B002_4100,2025,9,B002,4100,Interest Income - Loans,InterestIncomeLoans,21198.21
+GL_InterestIncomeLoans_202509_B003_4100,2025,9,B003,4100,Interest Income - Loans,InterestIncomeLoans,375162.44
+GL_InterestIncomeLoans_202509_B004_4100,2025,9,B004,4100,Interest Income - Loans,InterestIncomeLoans,5503.44
+GL_InterestIncomeLoans_202509_B005_4100,2025,9,B005,4100,Interest Income - Loans,InterestIncomeLoans,811347.63
+GL_InterestIncomeLoans_202509_B006_4100,2025,9,B006,4100,Interest Income - Loans,InterestIncomeLoans,26167.72
+GL_InterestIncomeLoans_202509_B007_4100,2025,9,B007,4100,Interest Income - Loans,InterestIncomeLoans,18497.89
+GL_InterestIncomeLoans_202509_B008_4100,2025,9,B008,4100,Interest Income - Loans,InterestIncomeLoans,876250.14
+GL_InterestIncomeLoans_202509_B009_4100,2025,9,B009,4100,Interest Income - Loans,InterestIncomeLoans,166418.54
+GL_InterestIncomeLoans_202509_B010_4100,2025,9,B010,4100,Interest Income - Loans,InterestIncomeLoans,284079.3
+GL_InterestIncomeLoans_202509_B011_4100,2025,9,B011,4100,Interest Income - Loans,InterestIncomeLoans,17318.57
+GL_InterestIncomeLoans_202509_B012_4100,2025,9,B012,4100,Interest Income - Loans,InterestIncomeLoans,223111.55
+GL_InterestIncomeSecurities_202509_HQ_4200,2025,9,HQ,4200,Interest Income - Securities,InterestIncomeSecurities,549447.32
+GL_InterestIncomeSecurities_202509_B001_4200,2025,9,B001,4200,Interest Income - Securities,InterestIncomeSecurities,31752.9
+GL_InterestIncomeSecurities_202509_B002_4200,2025,9,B002,4200,Interest Income - Securities,InterestIncomeSecurities,14685.17
+GL_InterestIncomeSecurities_202509_B003_4200,2025,9,B003,4200,Interest Income - Securities,InterestIncomeSecurities,12673.44
+GL_InterestIncomeSecurities_202509_B004_4200,2025,9,B004,4200,Interest Income - Securities,InterestIncomeSecurities,59409.58
+GL_InterestIncomeSecurities_202509_B005_4200,2025,9,B005,4200,Interest Income - Securities,InterestIncomeSecurities,496.26
+GL_InterestIncomeSecurities_202509_B006_4200,2025,9,B006,4200,Interest Income - Securities,InterestIncomeSecurities,24329.07
+GL_InterestIncomeSecurities_202509_B007_4200,2025,9,B007,4200,Interest Income - Securities,InterestIncomeSecurities,81574.73
+GL_InterestIncomeSecurities_202509_B008_4200,2025,9,B008,4200,Interest Income - Securities,InterestIncomeSecurities,75416.55
+GL_InterestIncomeSecurities_202509_B009_4200,2025,9,B009,4200,Interest Income - Securities,InterestIncomeSecurities,10739.61
+GL_InterestIncomeSecurities_202509_B010_4200,2025,9,B010,4200,Interest Income - Securities,InterestIncomeSecurities,7012.62
+GL_InterestIncomeSecurities_202509_B011_4200,2025,9,B011,4200,Interest Income - Securities,InterestIncomeSecurities,32647.05
+GL_InterestIncomeSecurities_202509_B012_4200,2025,9,B012,4200,Interest Income - Securities,InterestIncomeSecurities,15561.23
+GL_InterestExpenseDeposits_202509_HQ_5100,2025,9,HQ,5100,Interest Expense - Deposits,InterestExpenseDeposits,93396.67
+GL_InterestExpenseDeposits_202509_B001_5100,2025,9,B001,5100,Interest Expense - Deposits,InterestExpenseDeposits,25978.8
+GL_InterestExpenseDeposits_202509_B002_5100,2025,9,B002,5100,Interest Expense - Deposits,InterestExpenseDeposits,183434.78
+GL_InterestExpenseDeposits_202509_B003_5100,2025,9,B003,5100,Interest Expense - Deposits,InterestExpenseDeposits,95311.26
+GL_InterestExpenseDeposits_202509_B004_5100,2025,9,B004,5100,Interest Expense - Deposits,InterestExpenseDeposits,245411.09
+GL_InterestExpenseDeposits_202509_B005_5100,2025,9,B005,5100,Interest Expense - Deposits,InterestExpenseDeposits,210204.31
+GL_InterestExpenseDeposits_202509_B006_5100,2025,9,B006,5100,Interest Expense - Deposits,InterestExpenseDeposits,165178.83
+GL_InterestExpenseDeposits_202509_B007_5100,2025,9,B007,5100,Interest Expense - Deposits,InterestExpenseDeposits,5735.05
+GL_InterestExpenseDeposits_202509_B008_5100,2025,9,B008,5100,Interest Expense - Deposits,InterestExpenseDeposits,384949.88
+GL_InterestExpenseDeposits_202509_B009_5100,2025,9,B009,5100,Interest Expense - Deposits,InterestExpenseDeposits,128335.51
+GL_InterestExpenseDeposits_202509_B010_5100,2025,9,B010,5100,Interest Expense - Deposits,InterestExpenseDeposits,11719.66
+GL_InterestExpenseDeposits_202509_B011_5100,2025,9,B011,5100,Interest Expense - Deposits,InterestExpenseDeposits,44150.47
+GL_InterestExpenseDeposits_202509_B012_5100,2025,9,B012,5100,Interest Expense - Deposits,InterestExpenseDeposits,100657.04
+GL_InterestExpenseBorrowings_202509_HQ_5200,2025,9,HQ,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,21803.06
+GL_InterestExpenseBorrowings_202509_B001_5200,2025,9,B001,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,9318.45
+GL_InterestExpenseBorrowings_202509_B002_5200,2025,9,B002,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,29627.81
+GL_InterestExpenseBorrowings_202509_B003_5200,2025,9,B003,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,44993.83
+GL_InterestExpenseBorrowings_202509_B004_5200,2025,9,B004,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,20634.23
+GL_InterestExpenseBorrowings_202509_B005_5200,2025,9,B005,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,79942.04
+GL_InterestExpenseBorrowings_202509_B006_5200,2025,9,B006,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,40613.56
+GL_InterestExpenseBorrowings_202509_B007_5200,2025,9,B007,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,10302.02
+GL_InterestExpenseBorrowings_202509_B008_5200,2025,9,B008,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,4876.22
+GL_InterestExpenseBorrowings_202509_B009_5200,2025,9,B009,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,25523.14
+GL_InterestExpenseBorrowings_202509_B010_5200,2025,9,B010,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,18515.48
+GL_InterestExpenseBorrowings_202509_B011_5200,2025,9,B011,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,13058.69
+GL_InterestExpenseBorrowings_202509_B012_5200,2025,9,B012,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,56342.96
+GL_ProvisionForCreditLosses_202509_HQ_5300,2025,9,HQ,5300,Provision for Credit Losses,ProvisionForCreditLosses,976.83
+GL_ProvisionForCreditLosses_202509_B001_5300,2025,9,B001,5300,Provision for Credit Losses,ProvisionForCreditLosses,5354.05
+GL_ProvisionForCreditLosses_202509_B002_5300,2025,9,B002,5300,Provision for Credit Losses,ProvisionForCreditLosses,14695.96
+GL_ProvisionForCreditLosses_202509_B003_5300,2025,9,B003,5300,Provision for Credit Losses,ProvisionForCreditLosses,71941.78
+GL_ProvisionForCreditLosses_202509_B004_5300,2025,9,B004,5300,Provision for Credit Losses,ProvisionForCreditLosses,39127.94
+GL_ProvisionForCreditLosses_202509_B005_5300,2025,9,B005,5300,Provision for Credit Losses,ProvisionForCreditLosses,59687.16
+GL_ProvisionForCreditLosses_202509_B006_5300,2025,9,B006,5300,Provision for Credit Losses,ProvisionForCreditLosses,6896.99
+GL_ProvisionForCreditLosses_202509_B007_5300,2025,9,B007,5300,Provision for Credit Losses,ProvisionForCreditLosses,1786.18
+GL_ProvisionForCreditLosses_202509_B008_5300,2025,9,B008,5300,Provision for Credit Losses,ProvisionForCreditLosses,62568.68
+GL_ProvisionForCreditLosses_202509_B009_5300,2025,9,B009,5300,Provision for Credit Losses,ProvisionForCreditLosses,33567.48
+GL_ProvisionForCreditLosses_202509_B010_5300,2025,9,B010,5300,Provision for Credit Losses,ProvisionForCreditLosses,15454.36
+GL_ProvisionForCreditLosses_202509_B011_5300,2025,9,B011,5300,Provision for Credit Losses,ProvisionForCreditLosses,1558.99
+GL_ProvisionForCreditLosses_202509_B012_5300,2025,9,B012,5300,Provision for Credit Losses,ProvisionForCreditLosses,16052.3
+GL_IncomeTaxExpense_202509_HQ_7100,2025,9,HQ,7100,Income Tax Expense,IncomeTaxExpense,466369.65
+GL_IncomeTaxExpense_202509_B001_7100,2025,9,B001,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B002_7100,2025,9,B002,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B003_7100,2025,9,B003,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B004_7100,2025,9,B004,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B005_7100,2025,9,B005,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B006_7100,2025,9,B006,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B007_7100,2025,9,B007,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B008_7100,2025,9,B008,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B009_7100,2025,9,B009,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B010_7100,2025,9,B010,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B011_7100,2025,9,B011,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202509_B012_7100,2025,9,B012,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_CallCenterOpex_202510_HQ_6100,2025,10,HQ,6100,Call Center Salaries,CallCenterOpex,24259.34
+GL_CallCenterOpex_202510_HQ_6110,2025,10,HQ,6110,Telecom Expense,CallCenterOpex,11026.97
+GL_CallCenterOpex_202510_HQ_6120,2025,10,HQ,6120,Call Center Rent,CallCenterOpex,8821.58
+GL_CallCenterOpex_202510_B001_6100,2025,10,B001,6100,Call Center Salaries,CallCenterOpex,83492.48
+GL_CallCenterOpex_202510_B001_6110,2025,10,B001,6110,Telecom Expense,CallCenterOpex,37951.13
+GL_CallCenterOpex_202510_B001_6120,2025,10,B001,6120,Call Center Rent,CallCenterOpex,30360.9
+GL_CallCenterOpex_202510_B002_6100,2025,10,B002,6100,Call Center Salaries,CallCenterOpex,4660.12
+GL_CallCenterOpex_202510_B002_6110,2025,10,B002,6110,Telecom Expense,CallCenterOpex,2118.24
+GL_CallCenterOpex_202510_B002_6120,2025,10,B002,6120,Call Center Rent,CallCenterOpex,1694.59
+GL_CallCenterOpex_202510_B003_6100,2025,10,B003,6100,Call Center Salaries,CallCenterOpex,59965.14
+GL_CallCenterOpex_202510_B003_6110,2025,10,B003,6110,Telecom Expense,CallCenterOpex,27256.88
+GL_CallCenterOpex_202510_B003_6120,2025,10,B003,6120,Call Center Rent,CallCenterOpex,21805.51
+GL_CallCenterOpex_202510_B004_6100,2025,10,B004,6100,Call Center Salaries,CallCenterOpex,27333.41
+GL_CallCenterOpex_202510_B004_6110,2025,10,B004,6110,Telecom Expense,CallCenterOpex,12424.28
+GL_CallCenterOpex_202510_B004_6120,2025,10,B004,6120,Call Center Rent,CallCenterOpex,9939.42
+GL_CallCenterOpex_202510_B005_6100,2025,10,B005,6100,Call Center Salaries,CallCenterOpex,189047.64
+GL_CallCenterOpex_202510_B005_6110,2025,10,B005,6110,Telecom Expense,CallCenterOpex,85930.75
+GL_CallCenterOpex_202510_B005_6120,2025,10,B005,6120,Call Center Rent,CallCenterOpex,68744.6
+GL_CallCenterOpex_202510_B006_6100,2025,10,B006,6100,Call Center Salaries,CallCenterOpex,35250.7
+GL_CallCenterOpex_202510_B006_6110,2025,10,B006,6110,Telecom Expense,CallCenterOpex,16023.04
+GL_CallCenterOpex_202510_B006_6120,2025,10,B006,6120,Call Center Rent,CallCenterOpex,12818.43
+GL_CallCenterOpex_202510_B007_6100,2025,10,B007,6100,Call Center Salaries,CallCenterOpex,55289.42
+GL_CallCenterOpex_202510_B007_6110,2025,10,B007,6110,Telecom Expense,CallCenterOpex,25131.56
+GL_CallCenterOpex_202510_B007_6120,2025,10,B007,6120,Call Center Rent,CallCenterOpex,20105.24
+GL_CallCenterOpex_202510_B008_6100,2025,10,B008,6100,Call Center Salaries,CallCenterOpex,105758.22
+GL_CallCenterOpex_202510_B008_6110,2025,10,B008,6110,Telecom Expense,CallCenterOpex,48071.92
+GL_CallCenterOpex_202510_B008_6120,2025,10,B008,6120,Call Center Rent,CallCenterOpex,38457.53
+GL_CallCenterOpex_202510_B009_6100,2025,10,B009,6100,Call Center Salaries,CallCenterOpex,11577.38
+GL_CallCenterOpex_202510_B009_6110,2025,10,B009,6110,Telecom Expense,CallCenterOpex,5262.45
+GL_CallCenterOpex_202510_B009_6120,2025,10,B009,6120,Call Center Rent,CallCenterOpex,4209.96
+GL_CallCenterOpex_202510_B010_6100,2025,10,B010,6100,Call Center Salaries,CallCenterOpex,38238.27
+GL_CallCenterOpex_202510_B010_6110,2025,10,B010,6110,Telecom Expense,CallCenterOpex,17381.03
+GL_CallCenterOpex_202510_B010_6120,2025,10,B010,6120,Call Center Rent,CallCenterOpex,13904.83
+GL_CallCenterOpex_202510_B011_6100,2025,10,B011,6100,Call Center Salaries,CallCenterOpex,62208.9
+GL_CallCenterOpex_202510_B011_6110,2025,10,B011,6110,Telecom Expense,CallCenterOpex,28276.77
+GL_CallCenterOpex_202510_B011_6120,2025,10,B011,6120,Call Center Rent,CallCenterOpex,22621.42
+GL_CallCenterOpex_202510_B012_6100,2025,10,B012,6100,Call Center Salaries,CallCenterOpex,45034.83
+GL_CallCenterOpex_202510_B012_6110,2025,10,B012,6110,Telecom Expense,CallCenterOpex,20470.38
+GL_CallCenterOpex_202510_B012_6120,2025,10,B012,6120,Call Center Rent,CallCenterOpex,16376.29
+GL_BranchOpex_202510_HQ_6200,2025,10,HQ,6200,Branch Salaries,BranchOpex,78036.74
+GL_BranchOpex_202510_HQ_6210,2025,10,HQ,6210,Branch Rent,BranchOpex,28377.0
+GL_BranchOpex_202510_HQ_6220,2025,10,HQ,6220,Branch Utilities,BranchOpex,21282.75
+GL_BranchOpex_202510_HQ_6230,2025,10,HQ,6230,Branch Supplies,BranchOpex,14188.5
+GL_BranchOpex_202510_B001_6200,2025,10,B001,6200,Branch Salaries,BranchOpex,219269.76
+GL_BranchOpex_202510_B001_6210,2025,10,B001,6210,Branch Rent,BranchOpex,79734.46
+GL_BranchOpex_202510_B001_6220,2025,10,B001,6220,Branch Utilities,BranchOpex,59800.84
+GL_BranchOpex_202510_B001_6230,2025,10,B001,6230,Branch Supplies,BranchOpex,39867.23
+GL_BranchOpex_202510_B002_6200,2025,10,B002,6200,Branch Salaries,BranchOpex,52238.09
+GL_BranchOpex_202510_B002_6210,2025,10,B002,6210,Branch Rent,BranchOpex,18995.67
+GL_BranchOpex_202510_B002_6220,2025,10,B002,6220,Branch Utilities,BranchOpex,14246.75
+GL_BranchOpex_202510_B002_6230,2025,10,B002,6230,Branch Supplies,BranchOpex,9497.84
+GL_BranchOpex_202510_B003_6200,2025,10,B003,6200,Branch Salaries,BranchOpex,225303.12
+GL_BranchOpex_202510_B003_6210,2025,10,B003,6210,Branch Rent,BranchOpex,81928.41
+GL_BranchOpex_202510_B003_6220,2025,10,B003,6220,Branch Utilities,BranchOpex,61446.31
+GL_BranchOpex_202510_B003_6230,2025,10,B003,6230,Branch Supplies,BranchOpex,40964.2
+GL_BranchOpex_202510_B004_6200,2025,10,B004,6200,Branch Salaries,BranchOpex,83150.63
+GL_BranchOpex_202510_B004_6210,2025,10,B004,6210,Branch Rent,BranchOpex,30236.59
+GL_BranchOpex_202510_B004_6220,2025,10,B004,6220,Branch Utilities,BranchOpex,22677.44
+GL_BranchOpex_202510_B004_6230,2025,10,B004,6230,Branch Supplies,BranchOpex,15118.3
+GL_BranchOpex_202510_B005_6200,2025,10,B005,6200,Branch Salaries,BranchOpex,149862.6
+GL_BranchOpex_202510_B005_6210,2025,10,B005,6210,Branch Rent,BranchOpex,54495.49
+GL_BranchOpex_202510_B005_6220,2025,10,B005,6220,Branch Utilities,BranchOpex,40871.62
+GL_BranchOpex_202510_B005_6230,2025,10,B005,6230,Branch Supplies,BranchOpex,27247.75
+GL_BranchOpex_202510_B006_6200,2025,10,B006,6200,Branch Salaries,BranchOpex,87502.4
+GL_BranchOpex_202510_B006_6210,2025,10,B006,6210,Branch Rent,BranchOpex,31819.06
+GL_BranchOpex_202510_B006_6220,2025,10,B006,6220,Branch Utilities,BranchOpex,23864.29
+GL_BranchOpex_202510_B006_6230,2025,10,B006,6230,Branch Supplies,BranchOpex,15909.53
+GL_BranchOpex_202510_B007_6200,2025,10,B007,6200,Branch Salaries,BranchOpex,23381.29
+GL_BranchOpex_202510_B007_6210,2025,10,B007,6210,Branch Rent,BranchOpex,8502.29
+GL_BranchOpex_202510_B007_6220,2025,10,B007,6220,Branch Utilities,BranchOpex,6376.71
+GL_BranchOpex_202510_B007_6230,2025,10,B007,6230,Branch Supplies,BranchOpex,4251.14
+GL_BranchOpex_202510_B008_6200,2025,10,B008,6200,Branch Salaries,BranchOpex,29219.04
+GL_BranchOpex_202510_B008_6210,2025,10,B008,6210,Branch Rent,BranchOpex,10625.11
+GL_BranchOpex_202510_B008_6220,2025,10,B008,6220,Branch Utilities,BranchOpex,7968.83
+GL_BranchOpex_202510_B008_6230,2025,10,B008,6230,Branch Supplies,BranchOpex,5312.55
+GL_BranchOpex_202510_B009_6200,2025,10,B009,6200,Branch Salaries,BranchOpex,75992.9
+GL_BranchOpex_202510_B009_6210,2025,10,B009,6210,Branch Rent,BranchOpex,27633.78
+GL_BranchOpex_202510_B009_6220,2025,10,B009,6220,Branch Utilities,BranchOpex,20725.34
+GL_BranchOpex_202510_B009_6230,2025,10,B009,6230,Branch Supplies,BranchOpex,13816.89
+GL_BranchOpex_202510_B010_6200,2025,10,B010,6200,Branch Salaries,BranchOpex,32164.89
+GL_BranchOpex_202510_B010_6210,2025,10,B010,6210,Branch Rent,BranchOpex,11696.32
+GL_BranchOpex_202510_B010_6220,2025,10,B010,6220,Branch Utilities,BranchOpex,8772.24
+GL_BranchOpex_202510_B010_6230,2025,10,B010,6230,Branch Supplies,BranchOpex,5848.16
+GL_BranchOpex_202510_B011_6200,2025,10,B011,6200,Branch Salaries,BranchOpex,115652.61
+GL_BranchOpex_202510_B011_6210,2025,10,B011,6210,Branch Rent,BranchOpex,42055.49
+GL_BranchOpex_202510_B011_6220,2025,10,B011,6220,Branch Utilities,BranchOpex,31541.62
+GL_BranchOpex_202510_B011_6230,2025,10,B011,6230,Branch Supplies,BranchOpex,21027.75
+GL_BranchOpex_202510_B012_6200,2025,10,B012,6200,Branch Salaries,BranchOpex,40797.65
+GL_BranchOpex_202510_B012_6210,2025,10,B012,6210,Branch Rent,BranchOpex,14835.51
+GL_BranchOpex_202510_B012_6220,2025,10,B012,6220,Branch Utilities,BranchOpex,11126.63
+GL_BranchOpex_202510_B012_6230,2025,10,B012,6230,Branch Supplies,BranchOpex,7417.75
+GL_DigitalPlatform_202510_HQ_6300,2025,10,HQ,6300,Cloud Hosting,DigitalPlatform,302842.86
+GL_DigitalPlatform_202510_HQ_6310,2025,10,HQ,6310,Software Licenses,DigitalPlatform,181705.71
+GL_DigitalPlatform_202510_HQ_6320,2025,10,HQ,6320,DevOps & Monitoring,DigitalPlatform,121137.14
+GL_DigitalPlatform_202510_B001_6300,2025,10,B001,6300,Cloud Hosting,DigitalPlatform,16014.52
+GL_DigitalPlatform_202510_B001_6310,2025,10,B001,6310,Software Licenses,DigitalPlatform,9608.71
+GL_DigitalPlatform_202510_B001_6320,2025,10,B001,6320,DevOps & Monitoring,DigitalPlatform,6405.81
+GL_DigitalPlatform_202510_B002_6300,2025,10,B002,6300,Cloud Hosting,DigitalPlatform,24359.63
+GL_DigitalPlatform_202510_B002_6310,2025,10,B002,6310,Software Licenses,DigitalPlatform,14615.78
+GL_DigitalPlatform_202510_B002_6320,2025,10,B002,6320,DevOps & Monitoring,DigitalPlatform,9743.85
+GL_DigitalPlatform_202510_B003_6300,2025,10,B003,6300,Cloud Hosting,DigitalPlatform,17423.36
+GL_DigitalPlatform_202510_B003_6310,2025,10,B003,6310,Software Licenses,DigitalPlatform,10454.02
+GL_DigitalPlatform_202510_B003_6320,2025,10,B003,6320,DevOps & Monitoring,DigitalPlatform,6969.34
+GL_DigitalPlatform_202510_B004_6300,2025,10,B004,6300,Cloud Hosting,DigitalPlatform,19533.06
+GL_DigitalPlatform_202510_B004_6310,2025,10,B004,6310,Software Licenses,DigitalPlatform,11719.83
+GL_DigitalPlatform_202510_B004_6320,2025,10,B004,6320,DevOps & Monitoring,DigitalPlatform,7813.22
+GL_DigitalPlatform_202510_B005_6300,2025,10,B005,6300,Cloud Hosting,DigitalPlatform,11386.7
+GL_DigitalPlatform_202510_B005_6310,2025,10,B005,6310,Software Licenses,DigitalPlatform,6832.02
+GL_DigitalPlatform_202510_B005_6320,2025,10,B005,6320,DevOps & Monitoring,DigitalPlatform,4554.68
+GL_DigitalPlatform_202510_B006_6300,2025,10,B006,6300,Cloud Hosting,DigitalPlatform,28345.77
+GL_DigitalPlatform_202510_B006_6310,2025,10,B006,6310,Software Licenses,DigitalPlatform,17007.46
+GL_DigitalPlatform_202510_B006_6320,2025,10,B006,6320,DevOps & Monitoring,DigitalPlatform,11338.31
+GL_DigitalPlatform_202510_B007_6300,2025,10,B007,6300,Cloud Hosting,DigitalPlatform,16051.4
+GL_DigitalPlatform_202510_B007_6310,2025,10,B007,6310,Software Licenses,DigitalPlatform,9630.84
+GL_DigitalPlatform_202510_B007_6320,2025,10,B007,6320,DevOps & Monitoring,DigitalPlatform,6420.56
+GL_DigitalPlatform_202510_B008_6300,2025,10,B008,6300,Cloud Hosting,DigitalPlatform,4316.1
+GL_DigitalPlatform_202510_B008_6310,2025,10,B008,6310,Software Licenses,DigitalPlatform,2589.66
+GL_DigitalPlatform_202510_B008_6320,2025,10,B008,6320,DevOps & Monitoring,DigitalPlatform,1726.44
+GL_DigitalPlatform_202510_B009_6300,2025,10,B009,6300,Cloud Hosting,DigitalPlatform,21503.56
+GL_DigitalPlatform_202510_B009_6310,2025,10,B009,6310,Software Licenses,DigitalPlatform,12902.14
+GL_DigitalPlatform_202510_B009_6320,2025,10,B009,6320,DevOps & Monitoring,DigitalPlatform,8601.43
+GL_DigitalPlatform_202510_B010_6300,2025,10,B010,6300,Cloud Hosting,DigitalPlatform,9913.57
+GL_DigitalPlatform_202510_B010_6310,2025,10,B010,6310,Software Licenses,DigitalPlatform,5948.14
+GL_DigitalPlatform_202510_B010_6320,2025,10,B010,6320,DevOps & Monitoring,DigitalPlatform,3965.43
+GL_DigitalPlatform_202510_B011_6300,2025,10,B011,6300,Cloud Hosting,DigitalPlatform,10894.68
+GL_DigitalPlatform_202510_B011_6310,2025,10,B011,6310,Software Licenses,DigitalPlatform,6536.81
+GL_DigitalPlatform_202510_B011_6320,2025,10,B011,6320,DevOps & Monitoring,DigitalPlatform,4357.87
+GL_DigitalPlatform_202510_B012_6300,2025,10,B012,6300,Cloud Hosting,DigitalPlatform,22152.9
+GL_DigitalPlatform_202510_B012_6310,2025,10,B012,6310,Software Licenses,DigitalPlatform,13291.74
+GL_DigitalPlatform_202510_B012_6320,2025,10,B012,6320,DevOps & Monitoring,DigitalPlatform,8861.14
+GL_ATMNetwork_202510_HQ_6400,2025,10,HQ,6400,ATM Maintenance,ATMNetwork,18924.58
+GL_ATMNetwork_202510_HQ_6410,2025,10,HQ,6410,Interchange Fees,ATMNetwork,18924.58
+GL_ATMNetwork_202510_HQ_6420,2025,10,HQ,6420,Cash Handling,ATMNetwork,9462.29
+GL_ATMNetwork_202510_B001_6400,2025,10,B001,6400,ATM Maintenance,ATMNetwork,9759.05
+GL_ATMNetwork_202510_B001_6410,2025,10,B001,6410,Interchange Fees,ATMNetwork,9759.05
+GL_ATMNetwork_202510_B001_6420,2025,10,B001,6420,Cash Handling,ATMNetwork,4879.52
+GL_ATMNetwork_202510_B002_6400,2025,10,B002,6400,ATM Maintenance,ATMNetwork,23477.22
+GL_ATMNetwork_202510_B002_6410,2025,10,B002,6410,Interchange Fees,ATMNetwork,23477.22
+GL_ATMNetwork_202510_B002_6420,2025,10,B002,6420,Cash Handling,ATMNetwork,11738.61
+GL_ATMNetwork_202510_B003_6400,2025,10,B003,6400,ATM Maintenance,ATMNetwork,6623.31
+GL_ATMNetwork_202510_B003_6410,2025,10,B003,6410,Interchange Fees,ATMNetwork,6623.31
+GL_ATMNetwork_202510_B003_6420,2025,10,B003,6420,Cash Handling,ATMNetwork,3311.65
+GL_ATMNetwork_202510_B004_6400,2025,10,B004,6400,ATM Maintenance,ATMNetwork,21478.93
+GL_ATMNetwork_202510_B004_6410,2025,10,B004,6410,Interchange Fees,ATMNetwork,21478.93
+GL_ATMNetwork_202510_B004_6420,2025,10,B004,6420,Cash Handling,ATMNetwork,10739.47
+GL_ATMNetwork_202510_B005_6400,2025,10,B005,6400,ATM Maintenance,ATMNetwork,8014.96
+GL_ATMNetwork_202510_B005_6410,2025,10,B005,6410,Interchange Fees,ATMNetwork,8014.96
+GL_ATMNetwork_202510_B005_6420,2025,10,B005,6420,Cash Handling,ATMNetwork,4007.48
+GL_ATMNetwork_202510_B006_6400,2025,10,B006,6400,ATM Maintenance,ATMNetwork,15928.12
+GL_ATMNetwork_202510_B006_6410,2025,10,B006,6410,Interchange Fees,ATMNetwork,15928.12
+GL_ATMNetwork_202510_B006_6420,2025,10,B006,6420,Cash Handling,ATMNetwork,7964.06
+GL_ATMNetwork_202510_B007_6400,2025,10,B007,6400,ATM Maintenance,ATMNetwork,3545.64
+GL_ATMNetwork_202510_B007_6410,2025,10,B007,6410,Interchange Fees,ATMNetwork,3545.64
+GL_ATMNetwork_202510_B007_6420,2025,10,B007,6420,Cash Handling,ATMNetwork,1772.82
+GL_ATMNetwork_202510_B008_6400,2025,10,B008,6400,ATM Maintenance,ATMNetwork,643.66
+GL_ATMNetwork_202510_B008_6410,2025,10,B008,6410,Interchange Fees,ATMNetwork,643.66
+GL_ATMNetwork_202510_B008_6420,2025,10,B008,6420,Cash Handling,ATMNetwork,321.83
+GL_ATMNetwork_202510_B009_6400,2025,10,B009,6400,ATM Maintenance,ATMNetwork,18994.85
+GL_ATMNetwork_202510_B009_6410,2025,10,B009,6410,Interchange Fees,ATMNetwork,18994.85
+GL_ATMNetwork_202510_B009_6420,2025,10,B009,6420,Cash Handling,ATMNetwork,9497.42
+GL_ATMNetwork_202510_B010_6400,2025,10,B010,6400,ATM Maintenance,ATMNetwork,47212.88
+GL_ATMNetwork_202510_B010_6410,2025,10,B010,6410,Interchange Fees,ATMNetwork,47212.88
+GL_ATMNetwork_202510_B010_6420,2025,10,B010,6420,Cash Handling,ATMNetwork,23606.44
+GL_ATMNetwork_202510_B011_6400,2025,10,B011,6400,ATM Maintenance,ATMNetwork,5914.72
+GL_ATMNetwork_202510_B011_6410,2025,10,B011,6410,Interchange Fees,ATMNetwork,5914.72
+GL_ATMNetwork_202510_B011_6420,2025,10,B011,6420,Cash Handling,ATMNetwork,2957.36
+GL_ATMNetwork_202510_B012_6400,2025,10,B012,6400,ATM Maintenance,ATMNetwork,26493.8
+GL_ATMNetwork_202510_B012_6410,2025,10,B012,6410,Interchange Fees,ATMNetwork,26493.8
+GL_ATMNetwork_202510_B012_6420,2025,10,B012,6420,Cash Handling,ATMNetwork,13246.9
+GL_OperationsShared_202510_HQ_6500,2025,10,HQ,6500,Finance & HR,OperationsShared,332930.89
+GL_OperationsShared_202510_HQ_6510,2025,10,HQ,6510,Compliance,OperationsShared,184961.6
+GL_OperationsShared_202510_HQ_6520,2025,10,HQ,6520,IT Shared Services,OperationsShared,221953.92
+GL_OperationsShared_202510_B001_6500,2025,10,B001,6500,Finance & HR,OperationsShared,39837.09
+GL_OperationsShared_202510_B001_6510,2025,10,B001,6510,Compliance,OperationsShared,22131.71
+GL_OperationsShared_202510_B001_6520,2025,10,B001,6520,IT Shared Services,OperationsShared,26558.06
+GL_OperationsShared_202510_B002_6500,2025,10,B002,6500,Finance & HR,OperationsShared,38770.14
+GL_OperationsShared_202510_B002_6510,2025,10,B002,6510,Compliance,OperationsShared,21538.97
+GL_OperationsShared_202510_B002_6520,2025,10,B002,6520,IT Shared Services,OperationsShared,25846.76
+GL_OperationsShared_202510_B003_6500,2025,10,B003,6500,Finance & HR,OperationsShared,13417.62
+GL_OperationsShared_202510_B003_6510,2025,10,B003,6510,Compliance,OperationsShared,7454.23
+GL_OperationsShared_202510_B003_6520,2025,10,B003,6520,IT Shared Services,OperationsShared,8945.08
+GL_OperationsShared_202510_B004_6500,2025,10,B004,6500,Finance & HR,OperationsShared,56.66
+GL_OperationsShared_202510_B004_6510,2025,10,B004,6510,Compliance,OperationsShared,31.48
+GL_OperationsShared_202510_B004_6520,2025,10,B004,6520,IT Shared Services,OperationsShared,37.77
+GL_OperationsShared_202510_B005_6500,2025,10,B005,6500,Finance & HR,OperationsShared,1826.72
+GL_OperationsShared_202510_B005_6510,2025,10,B005,6510,Compliance,OperationsShared,1014.84
+GL_OperationsShared_202510_B005_6520,2025,10,B005,6520,IT Shared Services,OperationsShared,1217.81
+GL_OperationsShared_202510_B006_6500,2025,10,B006,6500,Finance & HR,OperationsShared,6989.67
+GL_OperationsShared_202510_B006_6510,2025,10,B006,6510,Compliance,OperationsShared,3883.15
+GL_OperationsShared_202510_B006_6520,2025,10,B006,6520,IT Shared Services,OperationsShared,4659.78
+GL_OperationsShared_202510_B007_6500,2025,10,B007,6500,Finance & HR,OperationsShared,4581.65
+GL_OperationsShared_202510_B007_6510,2025,10,B007,6510,Compliance,OperationsShared,2545.36
+GL_OperationsShared_202510_B007_6520,2025,10,B007,6520,IT Shared Services,OperationsShared,3054.44
+GL_OperationsShared_202510_B008_6500,2025,10,B008,6500,Finance & HR,OperationsShared,3774.06
+GL_OperationsShared_202510_B008_6510,2025,10,B008,6510,Compliance,OperationsShared,2096.7
+GL_OperationsShared_202510_B008_6520,2025,10,B008,6520,IT Shared Services,OperationsShared,2516.04
+GL_OperationsShared_202510_B009_6500,2025,10,B009,6500,Finance & HR,OperationsShared,69123.87
+GL_OperationsShared_202510_B009_6510,2025,10,B009,6510,Compliance,OperationsShared,38402.15
+GL_OperationsShared_202510_B009_6520,2025,10,B009,6520,IT Shared Services,OperationsShared,46082.58
+GL_OperationsShared_202510_B010_6500,2025,10,B010,6500,Finance & HR,OperationsShared,30129.9
+GL_OperationsShared_202510_B010_6510,2025,10,B010,6510,Compliance,OperationsShared,16738.83
+GL_OperationsShared_202510_B010_6520,2025,10,B010,6520,IT Shared Services,OperationsShared,20086.6
+GL_OperationsShared_202510_B011_6500,2025,10,B011,6500,Finance & HR,OperationsShared,9781.37
+GL_OperationsShared_202510_B011_6510,2025,10,B011,6510,Compliance,OperationsShared,5434.09
+GL_OperationsShared_202510_B011_6520,2025,10,B011,6520,IT Shared Services,OperationsShared,6520.91
+GL_OperationsShared_202510_B012_6500,2025,10,B012,6500,Finance & HR,OperationsShared,3665.18
+GL_OperationsShared_202510_B012_6510,2025,10,B012,6510,Compliance,OperationsShared,2036.21
+GL_OperationsShared_202510_B012_6520,2025,10,B012,6520,IT Shared Services,OperationsShared,2443.47
+GL_ServiceFees_202510_HQ_4300,2025,10,HQ,4300,Deposit Account Service Charges,ServiceFees,42884.05
+GL_ServiceFees_202510_HQ_4305,2025,10,HQ,4305,Overdraft Fees,ServiceFees,18378.88
+GL_ServiceFees_202510_B001_4300,2025,10,B001,4300,Deposit Account Service Charges,ServiceFees,12301.83
+GL_ServiceFees_202510_B001_4305,2025,10,B001,4305,Overdraft Fees,ServiceFees,5272.21
+GL_ServiceFees_202510_B002_4300,2025,10,B002,4300,Deposit Account Service Charges,ServiceFees,53822.46
+GL_ServiceFees_202510_B002_4305,2025,10,B002,4305,Overdraft Fees,ServiceFees,23066.77
+GL_ServiceFees_202510_B003_4300,2025,10,B003,4300,Deposit Account Service Charges,ServiceFees,31658.76
+GL_ServiceFees_202510_B003_4305,2025,10,B003,4305,Overdraft Fees,ServiceFees,13568.04
+GL_ServiceFees_202510_B004_4300,2025,10,B004,4300,Deposit Account Service Charges,ServiceFees,69013.43
+GL_ServiceFees_202510_B004_4305,2025,10,B004,4305,Overdraft Fees,ServiceFees,29577.18
+GL_ServiceFees_202510_B005_4300,2025,10,B005,4300,Deposit Account Service Charges,ServiceFees,20164.99
+GL_ServiceFees_202510_B005_4305,2025,10,B005,4305,Overdraft Fees,ServiceFees,8642.14
+GL_ServiceFees_202510_B006_4300,2025,10,B006,4300,Deposit Account Service Charges,ServiceFees,13986.08
+GL_ServiceFees_202510_B006_4305,2025,10,B006,4305,Overdraft Fees,ServiceFees,5994.04
+GL_ServiceFees_202510_B007_4300,2025,10,B007,4300,Deposit Account Service Charges,ServiceFees,15328.36
+GL_ServiceFees_202510_B007_4305,2025,10,B007,4305,Overdraft Fees,ServiceFees,6569.3
+GL_ServiceFees_202510_B008_4300,2025,10,B008,4300,Deposit Account Service Charges,ServiceFees,80469.62
+GL_ServiceFees_202510_B008_4305,2025,10,B008,4305,Overdraft Fees,ServiceFees,34486.98
+GL_ServiceFees_202510_B009_4300,2025,10,B009,4300,Deposit Account Service Charges,ServiceFees,1388.51
+GL_ServiceFees_202510_B009_4305,2025,10,B009,4305,Overdraft Fees,ServiceFees,595.08
+GL_ServiceFees_202510_B010_4300,2025,10,B010,4300,Deposit Account Service Charges,ServiceFees,29018.79
+GL_ServiceFees_202510_B010_4305,2025,10,B010,4305,Overdraft Fees,ServiceFees,12436.63
+GL_ServiceFees_202510_B011_4300,2025,10,B011,4300,Deposit Account Service Charges,ServiceFees,55219.87
+GL_ServiceFees_202510_B011_4305,2025,10,B011,4305,Overdraft Fees,ServiceFees,23665.66
+GL_ServiceFees_202510_B012_4300,2025,10,B012,4300,Deposit Account Service Charges,ServiceFees,17335.71
+GL_ServiceFees_202510_B012_4305,2025,10,B012,4305,Overdraft Fees,ServiceFees,7429.57
+GL_CardInterchange_202510_HQ_4310,2025,10,HQ,4310,Card Interchange Income,CardInterchange,33113.0
+GL_CardInterchange_202510_B001_4310,2025,10,B001,4310,Card Interchange Income,CardInterchange,15161.67
+GL_CardInterchange_202510_B002_4310,2025,10,B002,4310,Card Interchange Income,CardInterchange,87580.84
+GL_CardInterchange_202510_B003_4310,2025,10,B003,4310,Card Interchange Income,CardInterchange,14326.35
+GL_CardInterchange_202510_B004_4310,2025,10,B004,4310,Card Interchange Income,CardInterchange,2612.28
+GL_CardInterchange_202510_B005_4310,2025,10,B005,4310,Card Interchange Income,CardInterchange,7786.93
+GL_CardInterchange_202510_B006_4310,2025,10,B006,4310,Card Interchange Income,CardInterchange,65061.67
+GL_CardInterchange_202510_B007_4310,2025,10,B007,4310,Card Interchange Income,CardInterchange,62461.73
+GL_CardInterchange_202510_B008_4310,2025,10,B008,4310,Card Interchange Income,CardInterchange,78471.6
+GL_CardInterchange_202510_B009_4310,2025,10,B009,4310,Card Interchange Income,CardInterchange,67963.46
+GL_CardInterchange_202510_B010_4310,2025,10,B010,4310,Card Interchange Income,CardInterchange,72695.42
+GL_CardInterchange_202510_B011_4310,2025,10,B011,4310,Card Interchange Income,CardInterchange,4118.66
+GL_CardInterchange_202510_B012_4310,2025,10,B012,4310,Card Interchange Income,CardInterchange,57232.81
+GL_BrokerageFees_202510_HQ_4320,2025,10,HQ,4320,Brokerage Commissions,BrokerageFees,238.91
+GL_BrokerageFees_202510_HQ_4325,2025,10,HQ,4325,Advisory Fees,BrokerageFees,159.27
+GL_BrokerageFees_202510_B001_4320,2025,10,B001,4320,Brokerage Commissions,BrokerageFees,4110.14
+GL_BrokerageFees_202510_B001_4325,2025,10,B001,4325,Advisory Fees,BrokerageFees,2740.09
+GL_BrokerageFees_202510_B002_4320,2025,10,B002,4320,Brokerage Commissions,BrokerageFees,1359.47
+GL_BrokerageFees_202510_B002_4325,2025,10,B002,4325,Advisory Fees,BrokerageFees,906.31
+GL_BrokerageFees_202510_B003_4320,2025,10,B003,4320,Brokerage Commissions,BrokerageFees,55275.71
+GL_BrokerageFees_202510_B003_4325,2025,10,B003,4325,Advisory Fees,BrokerageFees,36850.47
+GL_BrokerageFees_202510_B004_4320,2025,10,B004,4320,Brokerage Commissions,BrokerageFees,3807.42
+GL_BrokerageFees_202510_B004_4325,2025,10,B004,4325,Advisory Fees,BrokerageFees,2538.28
+GL_BrokerageFees_202510_B005_4320,2025,10,B005,4320,Brokerage Commissions,BrokerageFees,8807.42
+GL_BrokerageFees_202510_B005_4325,2025,10,B005,4325,Advisory Fees,BrokerageFees,5871.61
+GL_BrokerageFees_202510_B006_4320,2025,10,B006,4320,Brokerage Commissions,BrokerageFees,5058.76
+GL_BrokerageFees_202510_B006_4325,2025,10,B006,4325,Advisory Fees,BrokerageFees,3372.5
+GL_BrokerageFees_202510_B007_4320,2025,10,B007,4320,Brokerage Commissions,BrokerageFees,11687.35
+GL_BrokerageFees_202510_B007_4325,2025,10,B007,4325,Advisory Fees,BrokerageFees,7791.57
+GL_BrokerageFees_202510_B008_4320,2025,10,B008,4320,Brokerage Commissions,BrokerageFees,9268.34
+GL_BrokerageFees_202510_B008_4325,2025,10,B008,4325,Advisory Fees,BrokerageFees,6178.9
+GL_BrokerageFees_202510_B009_4320,2025,10,B009,4320,Brokerage Commissions,BrokerageFees,27164.56
+GL_BrokerageFees_202510_B009_4325,2025,10,B009,4325,Advisory Fees,BrokerageFees,18109.71
+GL_BrokerageFees_202510_B010_4320,2025,10,B010,4320,Brokerage Commissions,BrokerageFees,21472.21
+GL_BrokerageFees_202510_B010_4325,2025,10,B010,4325,Advisory Fees,BrokerageFees,14314.8
+GL_BrokerageFees_202510_B011_4320,2025,10,B011,4320,Brokerage Commissions,BrokerageFees,23395.01
+GL_BrokerageFees_202510_B011_4325,2025,10,B011,4325,Advisory Fees,BrokerageFees,15596.67
+GL_BrokerageFees_202510_B012_4320,2025,10,B012,4320,Brokerage Commissions,BrokerageFees,13049.68
+GL_BrokerageFees_202510_B012_4325,2025,10,B012,4325,Advisory Fees,BrokerageFees,8699.8
+GL_InterestIncomeLoans_202510_HQ_4100,2025,10,HQ,4100,Interest Income - Loans,InterestIncomeLoans,334781.02
+GL_InterestIncomeLoans_202510_B001_4100,2025,10,B001,4100,Interest Income - Loans,InterestIncomeLoans,623897.37
+GL_InterestIncomeLoans_202510_B002_4100,2025,10,B002,4100,Interest Income - Loans,InterestIncomeLoans,21219.29
+GL_InterestIncomeLoans_202510_B003_4100,2025,10,B003,4100,Interest Income - Loans,InterestIncomeLoans,375535.48
+GL_InterestIncomeLoans_202510_B004_4100,2025,10,B004,4100,Interest Income - Loans,InterestIncomeLoans,5508.91
+GL_InterestIncomeLoans_202510_B005_4100,2025,10,B005,4100,Interest Income - Loans,InterestIncomeLoans,812154.39
+GL_InterestIncomeLoans_202510_B006_4100,2025,10,B006,4100,Interest Income - Loans,InterestIncomeLoans,26193.74
+GL_InterestIncomeLoans_202510_B007_4100,2025,10,B007,4100,Interest Income - Loans,InterestIncomeLoans,18516.28
+GL_InterestIncomeLoans_202510_B008_4100,2025,10,B008,4100,Interest Income - Loans,InterestIncomeLoans,877121.44
+GL_InterestIncomeLoans_202510_B009_4100,2025,10,B009,4100,Interest Income - Loans,InterestIncomeLoans,166584.02
+GL_InterestIncomeLoans_202510_B010_4100,2025,10,B010,4100,Interest Income - Loans,InterestIncomeLoans,284361.78
+GL_InterestIncomeLoans_202510_B011_4100,2025,10,B011,4100,Interest Income - Loans,InterestIncomeLoans,17335.8
+GL_InterestIncomeLoans_202510_B012_4100,2025,10,B012,4100,Interest Income - Loans,InterestIncomeLoans,223333.38
+GL_InterestIncomeSecurities_202510_HQ_4200,2025,10,HQ,4200,Interest Income - Securities,InterestIncomeSecurities,565946.24
+GL_InterestIncomeSecurities_202510_B001_4200,2025,10,B001,4200,Interest Income - Securities,InterestIncomeSecurities,32706.38
+GL_InterestIncomeSecurities_202510_B002_4200,2025,10,B002,4200,Interest Income - Securities,InterestIncomeSecurities,15126.14
+GL_InterestIncomeSecurities_202510_B003_4200,2025,10,B003,4200,Interest Income - Securities,InterestIncomeSecurities,13054.0
+GL_InterestIncomeSecurities_202510_B004_4200,2025,10,B004,4200,Interest Income - Securities,InterestIncomeSecurities,61193.55
+GL_InterestIncomeSecurities_202510_B005_4200,2025,10,B005,4200,Interest Income - Securities,InterestIncomeSecurities,511.16
+GL_InterestIncomeSecurities_202510_B006_4200,2025,10,B006,4200,Interest Income - Securities,InterestIncomeSecurities,25059.63
+GL_InterestIncomeSecurities_202510_B007_4200,2025,10,B007,4200,Interest Income - Securities,InterestIncomeSecurities,84024.28
+GL_InterestIncomeSecurities_202510_B008_4200,2025,10,B008,4200,Interest Income - Securities,InterestIncomeSecurities,77681.17
+GL_InterestIncomeSecurities_202510_B009_4200,2025,10,B009,4200,Interest Income - Securities,InterestIncomeSecurities,11062.1
+GL_InterestIncomeSecurities_202510_B010_4200,2025,10,B010,4200,Interest Income - Securities,InterestIncomeSecurities,7223.2
+GL_InterestIncomeSecurities_202510_B011_4200,2025,10,B011,4200,Interest Income - Securities,InterestIncomeSecurities,33627.38
+GL_InterestIncomeSecurities_202510_B012_4200,2025,10,B012,4200,Interest Income - Securities,InterestIncomeSecurities,16028.51
+GL_InterestExpenseDeposits_202510_HQ_5100,2025,10,HQ,5100,Interest Expense - Deposits,InterestExpenseDeposits,99653.86
+GL_InterestExpenseDeposits_202510_B001_5100,2025,10,B001,5100,Interest Expense - Deposits,InterestExpenseDeposits,27719.27
+GL_InterestExpenseDeposits_202510_B002_5100,2025,10,B002,5100,Interest Expense - Deposits,InterestExpenseDeposits,195724.13
+GL_InterestExpenseDeposits_202510_B003_5100,2025,10,B003,5100,Interest Expense - Deposits,InterestExpenseDeposits,101696.71
+GL_InterestExpenseDeposits_202510_B004_5100,2025,10,B004,5100,Interest Expense - Deposits,InterestExpenseDeposits,261852.59
+GL_InterestExpenseDeposits_202510_B005_5100,2025,10,B005,5100,Interest Expense - Deposits,InterestExpenseDeposits,224287.1
+GL_InterestExpenseDeposits_202510_B006_5100,2025,10,B006,5100,Interest Expense - Deposits,InterestExpenseDeposits,176245.11
+GL_InterestExpenseDeposits_202510_B007_5100,2025,10,B007,5100,Interest Expense - Deposits,InterestExpenseDeposits,6119.27
+GL_InterestExpenseDeposits_202510_B008_5100,2025,10,B008,5100,Interest Expense - Deposits,InterestExpenseDeposits,410739.89
+GL_InterestExpenseDeposits_202510_B009_5100,2025,10,B009,5100,Interest Expense - Deposits,InterestExpenseDeposits,136933.45
+GL_InterestExpenseDeposits_202510_B010_5100,2025,10,B010,5100,Interest Expense - Deposits,InterestExpenseDeposits,12504.83
+GL_InterestExpenseDeposits_202510_B011_5100,2025,10,B011,5100,Interest Expense - Deposits,InterestExpenseDeposits,47108.37
+GL_InterestExpenseDeposits_202510_B012_5100,2025,10,B012,5100,Interest Expense - Deposits,InterestExpenseDeposits,107400.63
+GL_InterestExpenseBorrowings_202510_HQ_5200,2025,10,HQ,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,23117.35
+GL_InterestExpenseBorrowings_202510_B001_5200,2025,10,B001,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,9880.17
+GL_InterestExpenseBorrowings_202510_B002_5200,2025,10,B002,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,31413.78
+GL_InterestExpenseBorrowings_202510_B003_5200,2025,10,B003,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,47706.06
+GL_InterestExpenseBorrowings_202510_B004_5200,2025,10,B004,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,21878.06
+GL_InterestExpenseBorrowings_202510_B005_5200,2025,10,B005,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,84760.95
+GL_InterestExpenseBorrowings_202510_B006_5200,2025,10,B006,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,43061.74
+GL_InterestExpenseBorrowings_202510_B007_5200,2025,10,B007,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,10923.03
+GL_InterestExpenseBorrowings_202510_B008_5200,2025,10,B008,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,5170.16
+GL_InterestExpenseBorrowings_202510_B009_5200,2025,10,B009,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,27061.67
+GL_InterestExpenseBorrowings_202510_B010_5200,2025,10,B010,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,19631.59
+GL_InterestExpenseBorrowings_202510_B011_5200,2025,10,B011,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,13845.87
+GL_InterestExpenseBorrowings_202510_B012_5200,2025,10,B012,5200,Interest Expense - Borrowings,InterestExpenseBorrowings,59739.31
+GL_ProvisionForCreditLosses_202510_HQ_5300,2025,10,HQ,5300,Provision for Credit Losses,ProvisionForCreditLosses,903.92
+GL_ProvisionForCreditLosses_202510_B001_5300,2025,10,B001,5300,Provision for Credit Losses,ProvisionForCreditLosses,4954.44
+GL_ProvisionForCreditLosses_202510_B002_5300,2025,10,B002,5300,Provision for Credit Losses,ProvisionForCreditLosses,13599.1
+GL_ProvisionForCreditLosses_202510_B003_5300,2025,10,B003,5300,Provision for Credit Losses,ProvisionForCreditLosses,66572.25
+GL_ProvisionForCreditLosses_202510_B004_5300,2025,10,B004,5300,Provision for Credit Losses,ProvisionForCreditLosses,36207.54
+GL_ProvisionForCreditLosses_202510_B005_5300,2025,10,B005,5300,Provision for Credit Losses,ProvisionForCreditLosses,55232.28
+GL_ProvisionForCreditLosses_202510_B006_5300,2025,10,B006,5300,Provision for Credit Losses,ProvisionForCreditLosses,6382.21
+GL_ProvisionForCreditLosses_202510_B007_5300,2025,10,B007,5300,Provision for Credit Losses,ProvisionForCreditLosses,1652.87
+GL_ProvisionForCreditLosses_202510_B008_5300,2025,10,B008,5300,Provision for Credit Losses,ProvisionForCreditLosses,57898.73
+GL_ProvisionForCreditLosses_202510_B009_5300,2025,10,B009,5300,Provision for Credit Losses,ProvisionForCreditLosses,31062.1
+GL_ProvisionForCreditLosses_202510_B010_5300,2025,10,B010,5300,Provision for Credit Losses,ProvisionForCreditLosses,14300.89
+GL_ProvisionForCreditLosses_202510_B011_5300,2025,10,B011,5300,Provision for Credit Losses,ProvisionForCreditLosses,1442.63
+GL_ProvisionForCreditLosses_202510_B012_5300,2025,10,B012,5300,Provision for Credit Losses,ProvisionForCreditLosses,14854.22
+GL_IncomeTaxExpense_202510_HQ_7100,2025,10,HQ,7100,Income Tax Expense,IncomeTaxExpense,407495.06
+GL_IncomeTaxExpense_202510_B001_7100,2025,10,B001,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B002_7100,2025,10,B002,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B003_7100,2025,10,B003,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B004_7100,2025,10,B004,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B005_7100,2025,10,B005,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B006_7100,2025,10,B006,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B007_7100,2025,10,B007,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B008_7100,2025,10,B008,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B009_7100,2025,10,B009,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B010_7100,2025,10,B010,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B011_7100,2025,10,B011,7100,Income Tax Expense,IncomeTaxExpense,0.0
+GL_IncomeTaxExpense_202510_B012_7100,2025,10,B012,7100,Income Tax Expense,IncomeTaxExpense,0.0

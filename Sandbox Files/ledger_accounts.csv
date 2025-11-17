@@ -1,0 +1,28 @@
+ledger_code,ledger_name,pool_name,default_weight
+6100,Call Center Salaries,CallCenterOpex,0.55
+6110,Telecom Expense,CallCenterOpex,0.25
+6120,Call Center Rent,CallCenterOpex,0.2
+6200,Branch Salaries,BranchOpex,0.55
+6210,Branch Rent,BranchOpex,0.2
+6220,Branch Utilities,BranchOpex,0.15
+6230,Branch Supplies,BranchOpex,0.1
+6300,Cloud Hosting,DigitalPlatform,0.5
+6310,Software Licenses,DigitalPlatform,0.3
+6320,DevOps & Monitoring,DigitalPlatform,0.2
+6400,ATM Maintenance,ATMNetwork,0.4
+6410,Interchange Fees,ATMNetwork,0.4
+6420,Cash Handling,ATMNetwork,0.2
+6500,Finance & HR,OperationsShared,0.45
+6510,Compliance,OperationsShared,0.25
+6520,IT Shared Services,OperationsShared,0.3
+4300,Deposit Account Service Charges,ServiceFees,0.7
+4305,Overdraft Fees,ServiceFees,0.3
+4310,Card Interchange Income,CardInterchange,1.0
+4320,Brokerage Commissions,BrokerageFees,0.6
+4325,Advisory Fees,BrokerageFees,0.4
+4100,Interest Income - Loans,InterestIncomeLoans,1.0
+4200,Interest Income - Securities,InterestIncomeSecurities,1.0
+5100,Interest Expense - Deposits,InterestExpenseDeposits,1.0
+5200,Interest Expense - Borrowings,InterestExpenseBorrowings,1.0
+5300,Provision for Credit Losses,ProvisionForCreditLosses,1.0
+7100,Income Tax Expense,IncomeTaxExpense,1.0
